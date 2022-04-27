@@ -1,0 +1,29 @@
+body {
+	font-size: 200%;
+	background: #000;
+	color: white;
+}
+
+main {
+	padding-top: 50px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 200%;
+	padding-bottom: 50px;
+}
+
+p {
+	text-align: center;
+}
+
+#randomBand {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: block;
+	background-color: #666;
+	text-shadow: #000 -2px 2px;
+}
