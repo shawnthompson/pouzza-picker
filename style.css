@@ -6,6 +6,7 @@ body {
 
 main {
 	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 h1 {
@@ -14,7 +15,7 @@ h1 {
 	padding-bottom: 50px;
 }
 
-p {
+main p {
 	text-align: center;
 }
 
@@ -38,4 +39,33 @@ p {
     color: #000;
     background-color: #a1b1c9;
 	text-shadow: none;
+}
+
+.contribute {
+	background-color: #333;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.contribute h2 {
+	font-size: 125%;
+	margin-bottom: 50px;
+}
+
+.contribute small {
+	display: block;
+	font-size: 50%;
+	padding-top: 10px;
+}
+
+.contribute a {
+	color: #fff;
+	text-decoration: none;
+	border-bottom: solid 1px;
+	margin-left: 15px;
+}
+
+.contribute a:hover, .contribute a:focus {
+	border: none;
+	color: #a1b1c9;
 }
