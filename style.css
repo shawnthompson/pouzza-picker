@@ -34,8 +34,8 @@ p {
 	color: #fff;
 }
 
-.btn-primary:hover {
+.btn-primary:hover, .btn-primary:focus {
     color: #000;
-    background-color: #7193c7;
+    background-color: #a1b1c9;
 	text-shadow: none;
 }
