@@ -21,9 +21,21 @@ p {
 #randomBand {
 	margin-top: 50px;
 	margin-bottom: 50px;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	display: block;
-	background-color: #666;
+	background-color: #333;
 	text-shadow: #000 -2px 2px;
+	font-size: 150%;
+}
+
+.btn-primary {
+	font-size: 75%;
+	color: #fff;
+}
+
+.btn-primary:hover {
+    color: #000;
+    background-color: #7193c7;
+	text-shadow: none;
 }
