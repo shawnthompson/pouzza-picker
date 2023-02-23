@@ -1,6 +1,6 @@
-# Pouzzafest 2022 band chooser
+# Pouzzafest 2023 band chooser
 
-A little tool to generate a random band from the +100 bands playing at Pouzzafest 2022
+A little tool to generate a random band from the +150 bands playing at Pouzzafest 2023
 
 Ideas to add:
 
