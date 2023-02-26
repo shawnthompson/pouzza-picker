@@ -1,15 +1,16 @@
 const spanBand = document.getElementById("randomBand");
-const buttonNext = document.getElementById('nextBand');
+const spanLocation = document.getElementById("location");
+const buttonNext = document.getElementById("nextBand");
 
-fetch('bands.json')
-	.then(function(response) {
+fetch("bands.json")
+	.then(function (response) {
 		return response.json();
 	})
-	.then(function(data) {
+	.then(function (data) {
 		appendData(data);
 	})
-	.catch(function(err) {
-		console.log('error: ' + err);
+	.catch(function (err) {
+		console.log("error: " + err);
 	});
 
 function getRandomArbitrary(min, max) {
@@ -18,14 +19,19 @@ function getRandomArbitrary(min, max) {
 	return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+function showMyBand(myBand) {
+	spanBand.innerHTML = myBand.name;
+	spanLocation.innerHTML = myBand.city;
+}
+
 function appendData(data) {
 	var randomIndex = getRandomArbitrary(0, data.length - 1);
-	spanBand.innerHTML = data[randomIndex];
+	showMyBand(data[randomIndex]);
 
-	buttonNext.addEventListener('click', () => {
+	buttonNext.addEventListener("click", () => {
 		var randomIndex = getRandomArbitrary(0, data.length - 1);
-		spanBand.innerHTML = data[randomIndex];
+		showMyBand(data[randomIndex]);
 	});
 
-	console.log(data[randomIndex]);
+	console.log(myBand.name);
 }
