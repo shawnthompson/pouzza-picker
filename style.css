@@ -1,7 +1,7 @@
 body {
   font-size: 125%;
   background: #000;
-  color: white;
+  color: rgb(240, 240, 240);
 }
 @media screen and (min-width: 600px) {
   body {
@@ -21,6 +21,7 @@ h1 {
   text-align: center;
   font-size: 150%;
   padding-bottom: 50px;
+  color: white;
 }
 @media screen and (min-width: 600px) {
   h1 {
@@ -30,18 +31,25 @@ h1 {
 
 #randomBand {
   margin-top: 50px;
-  margin-bottom: 50px;
   padding-top: 30px;
   padding-bottom: 30px;
   display: block;
   background-color: #333;
   text-shadow: #000 -2px 2px;
   font-size: 150%;
+  color: white;
+}
+
+#location {
+  text-align: right;
+  font-size: 125%;
+  font-weight: 500;
+  color: white;
 }
 
 .btn-primary {
   font-size: 75%;
-  color: #fff;
+  color: white;
 }
 .btn-primary:hover, .btn-primary:focus {
   color: #000;
@@ -64,12 +72,12 @@ h1 {
   padding-top: 10px;
 }
 .contribute a {
-  color: #fff;
+  color: #ffe600;
   text-decoration: none;
   border-bottom: solid 1px;
   margin-left: 15px;
 }
 .contribute a:hover, .contribute a:focus {
   border: none;
-  color: #a1b1c9;
+  color: #69a5ff;
 }/*# sourceMappingURL=style.css.map */
