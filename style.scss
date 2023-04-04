@@ -18,6 +18,18 @@ main {
 	p {
 		text-align: center;
 	}
+
+	a {
+		color: $link-colour;
+		text-decoration: none;
+		border-bottom: solid 1px;
+
+		&:hover,
+		&:focus {
+			border: none;
+			color: #69a5ff;
+		}
+	}
 }
 
 h1 {
