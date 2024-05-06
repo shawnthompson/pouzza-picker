@@ -30,6 +30,21 @@ main {
 			color: #69a5ff;
 		}
 	}
+
+}
+
+#links {
+	a {
+		color: $pronouced-colour;
+		text-decoration: none;
+		border-bottom: none;
+
+		&:hover,
+		&:focus {
+			color: $pronouced-colour;
+			border: none;
+		}
+	}
 }
 
 h1 {
@@ -72,6 +87,7 @@ h1 {
 		text-shadow: none;
 	}
 }
+
 
 .contribute {
 	background-color: #333;

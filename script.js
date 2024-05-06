@@ -1,6 +1,8 @@
 const spanBand = document.getElementById("randomBand");
 const spanLocation = document.getElementById("location");
 const buttonNext = document.getElementById("nextBand");
+const ulLinks = document.getElementById("links");
+console.log(ulLinks);
 
 fetch("bands.json")
 	.then(function (response) {
@@ -22,6 +24,13 @@ function getRandomArbitrary(min, max) {
 function showMyBand(myBand) {
 	spanBand.innerHTML = myBand.name;
 	spanLocation.innerHTML = myBand.city;
+
+	ulLinks.innerHTML = `
+        ${myBand.websiteURL ? `<li><a href="${myBand.websiteURL}"><i class="fas fa-globe" aria-hidden="true"></i></a></li>` : ''}
+        ${myBand.facebookURL ? `<li><a href="${myBand.facebookURL}"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>` : ''}
+        ${myBand.instagramURL ? `<li><a href="${myBand.instagramURL}"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>` : ''}
+        ${myBand.bandcampURL ? `<li><a href="${myBand.bandcampURL}"><i class="fab fa-bandcamp" aria-hidden="true"></i></a></li>` : ''}
+    `;
 }
 
 function appendData(data) {
