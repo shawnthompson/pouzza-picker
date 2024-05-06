@@ -1,1097 +1,1242 @@
 [
 	{
-		"name": "The Flatliners",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://theflatliners.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/theflatliners",
-		"twitterURL": "https://twitter.com/theflatliners",
-		"instagramURL": "https://www.instagram.com/theflatliners/",
-		"youtubeURL": "//www.youtube.com/watch?v=6KdlgVFHEQE"
+		"name": "Wavves",
+		"city": "San Diego, CA",
+		"websiteURL": "https://www.wavves.net/",
+		"facebookURL": "https://www.facebook.com/Wavves",
+		"instagramURL": "https://www.instagram.com/wavves",
+		"bandcampURL": null
 	},
 	{
-		"name": "Paint It Black",
-		"city": "Philadelphia, PA",
-		"bandcampURL": "https://paintitblack.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/pibphilly"
-	},
-	{
-		"name": "Dead Fucking Last",
-		"city": "Los Angeles, CA",
-		"bandcampURL": "https://deadfuckinglast.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/proudtobedfl",
-		"twitterURL": "https://twitter.com/ProudToBeDFL/",
-		"instagramURL": "https://www.instagram.com/proudtobedfl/"
-	},
-	{
-		"name": "Screaming Females",
-		"city": "New Brunswick, NJ",
-		"bandcampURL": "https://screamingfemales.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/screamingfemales",
-		"instagramURL": "https://www.instagram.com/official_screamales"
-	},
-	{
-		"name": "Prince Daddy &#038; The Hyena",
-		"city": "Albany, NY",
-		"bandcampURL": "https://princedaddyandthehyena.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/princedaddyandthehyena",
-		"instagramURL": "https://www.instagram.com/princedaddyandthehyena"
-	},
-	{
-		"name": "Bridge City Sinners",
-		"city": "Portland, OR",
-		"bandcampURL": "https://thebridgecitysinners.bandcamp.com/album/heres-to-the-devil",
-		"facebookURL": "https://www.facebook.com/bridgecitysinners/",
-		"instagramURL": "https://www.instagram.com/bridgecitysinners/"
-	},
-	{
-		"name": "Brendan Kelly",
-		"extraInfo": "The Lawrence Arms",
-		"city": "Chicago, IL",
-		"bandcampURL": "https://brendankellyandthewanderingbirds.bandcamp.com",
-		"twitterURL": "https://twitter.com/badsandwich",
-		"instagramURL": "https://www.instagram.com/dr_beexo"
-	},
-	{
-		"name": "Broadway Calls",
-		"city": "Seattle, WA",
-		"bandcampURL": "https://broadwaycalls.bandcamp.com/album/sad-in-the-city",
-		"facebookURL": "https://www.facebook.com/broadwaycalls/",
-		"twitterURL": "https://twitter.com/broadwaycalls",
-		"instagramURL": "https://www.instagram.com/broadwaycalls/?hl=en",
-		"youtubeURL": "//www.youtube.com/watch?v=lBXkEqy0FIM"
-	},
-	{
-		"name": "City of Caterpillar",
+		"name": "Strike Anywhere",
 		"city": "Richmond, VA",
-		"bandcampURL": "https://cityofcaterpillar.bandcamp.com",
-		"instagramURL": "https://www.instagram.com/cityofcaterpillarofficial/"
+		"websiteURL": "https://www.strikeanywhere.org/",
+		"facebookURL": "https://www.facebook.com/StrikeAnywhereOfficial",
+		"instagramURL": null,
+		"bandcampURL": null
 	},
 	{
-		"name": "SM WORLDWIDE",
-		"city": "London, ON",
-		"bandcampURL": "https://singlemothersband.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/SMworldwideinc/",
-		"instagramURL": "https://www.instagram.com/sm.worldwide"
-	},
-	{
-		"name": "Elway",
-		"city": "Fort Collins, CO",
-		"bandcampURL": "https://elwaytheband.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/ElwayTheBand/",
-		"instagramURL": "https://www.instagram.com/elwaytheband/?hl=en"
-	},
-	{
-		"name": "MUDIE",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://hugomudie.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/mudiemudiemudie",
-		"instagramURL": "https://www.instagram.com/hugomudie/"
-	},
-	{
-		"name": "No Trigger",
-		"city": "Worcester, MA",
-		"bandcampURL": "https://notrigger.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/notrigger",
-		"instagramURL": "https://www.instagram.com/notrigger/"
-	},
-	{
-		"name": "Lost Love",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://www.lostlove.bandcamp.com",
-		"facebookURL": "https://www.fb.com/lostlovemtl",
-		"twitterURL": "https://twitter.com/lostlovemtl",
-		"instagramURL": "https://www.instagram.com/lostlovemtl",
-		"youtubeURL": "//www.youtube.com/watch?v=B8HvFQjm-xU"
-	},
-	{
-		"name": "The Beatdown",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://thebeatdownmtl.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/thebeatdown/",
-		"twitterURL": "https://twitter.com/thebeatdown",
-		"instagramURL": "https://www.instagram.com/thebeatdownmtl/",
-		"youtubeURL": "//www.youtube.com/watch?v=297yo5cipy8"
-	},
-	{
-		"name": "Raygun Cowboys",
-		"city": "Edmonton, AB",
-		"bandcampURL": "https://rayguncowboys.bandcamp.com/album/innocent-look",
-		"facebookURL": "https://www.facebook.com/rayguncowboys13/",
-		"twitterURL": "https://twitter.com/RaygunCowboys",
-		"instagramURL": "https://www.instagram.com/raygun_cowboys/",
-		"youtubeURL": "//www.youtube.com/watch?v=mFrojKISanw"
-	},
-	{
-		"name": "Horace Pinker",
+		"name": "Laura Jane Grace",
 		"city": "Chicago, IL",
-		"extraInfo": "https://www.horacepinker.com/",
-		"facebookURL": "https://www.facebook.com/horacepinker",
-		"twitterURL": "https://twitter.com/horacepinker",
-		"instagramURL": "https://www.instagram.com/horacepinker47",
-		"youtubeURL": "//www.youtube.com/watch?v=2nzAZ2vyc-"
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/LauraJaneGrace",
+		"instagramURL": "https://www.instagram.com/laurajanegrace",
+		"bandcampURL": null
 	},
 	{
-		"name": "Dog Party",
-		"city": "Sacramento, CA",
-		"bandcampURL": "https://dogparty.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/dogpartylive",
-		"instagramURL": "https://www.instagram.com/dogparty/"
+		"name": "Alex Lahey",
+		"city": "Melbourne, AUS",
+		"websiteURL": "https://alexlahey.com.au/",
+		"facebookURL": "https://www.facebook.com/alexlaheymusic",
+		"instagramURL": "https://www.instagram.com/alex_lahey",
+		"bandcampURL": null
 	},
 	{
-		"name": "Vacation",
-		"city": "Cincinnati, OH",
-		"bandcampURL": "https://vacation.bandcamp.com",
-		"facebookURL": "https://facebook.com/vacationohio/",
-		"instagramURL": "https://instagram.com/vacation_rnr"
+		"name": "Against All Authority",
+		"city": "Miami, FL",
+		"websiteURL": "https://linktr.ee/againstallauthority",
+		"facebookURL": "https://www.facebook.com/againstallauthorityofficial",
+		"instagramURL": "https://www.instagram.com/againstallauthorityofficial",
+		"bandcampURL": null
 	},
 	{
-		"name": "After The Fall",
-		"city": "Albany, NY",
-		"bandcampURL": "https://afterthefall518.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/ATF518",
-		"twitterURL": "https://twitter.com/AFTERTHEFALLNY",
-		"instagramURL": "https://www.instagram.com/after_the_fall/",
-		"youtubeURL": "//www.youtube.com/watch?v=q2-kD0q7QTQ"
-	},
-	{
-		"name": "Dollar Signs",
-		"city": "Charlotte, NC",
-		"bandcampURL": "https://dollarsigns.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/dollarsignstheband/",
-		"instagramURL": "https://www.instagram.com/dollarsignstheband/"
-	},
-	{
-		"name": "Teens In Trouble",
-		"city": "North Carolina",
-		"bandcampURL": "https://asianmanrecords.bandcamp.com/album/teens-in-trouble",
-		"facebookURL": "https://www.facebook.com/teensintroublemusic/",
-		"instagramURL": "https://www.instagram.com/teensintrouble"
-	},
-	{
-		"name": "Brutal Youth",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://brutalyouth.bandcamp.com/album/sanguine",
-		"facebookURL": "https://www.facebook.com/brutalyouth/",
-		"twitterURL": "https://twitter.com/brutalyouth79",
-		"instagramURL": "https://www.instagram.com/brutalyouth709",
-		"youtubeURL": "//www.youtube.com/watch?v=5_CbI2twUYA"
-	},
-	{
-		"name": "PL Mafia",
+		"name": "Roller Starter",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://plmafia.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/plmafiamtl/"
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/RollerStarterMTL/",
+		"instagramURL": null,
+		"bandcampURL": null
 	},
 	{
-		"name": "Pohgoh",
-		"city": "Tampa, FL",
-		"bandcampURL": "https://pohgoh.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/PohgohFL/",
-		"instagramURL": "https://www.instagram.com/PohgohFL/"
+		"name": "Diesel Boy",
+		"city": "Santa Rosa, CA",
+		"websiteURL": "https://www.diesel-boy.com/",
+		"facebookURL": "https://www.facebook.com/Diesel.Boy.fb",
+		"instagramURL": "https://www.instagram.com/_dieselboy/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Vulgar Deli",
-		"extraInfo": "25e anniversaire",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://vulgardeli.bandcamp.com/album/smell-the-fuck",
-		"facebookURL": "https://www.facebook.com/profile.php?id=100063681092769"
+		"name": "Direct Hit!",
+		"city": "Milwaukee, WI",
+		"websiteURL": "http://directhitsucks.com/",
+		"facebookURL": "https://www.facebook.com/directhitband",
+		"instagramURL": "https://www.instagram.com/directhitband/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Sudden Waves",
-		"city": "Montréal, QC"
+		"name": "Rozwell Kid",
+		"city": "Martinsburg, WV",
+		"websiteURL": "https://rozwellkid.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/RozwellKid",
+		"instagramURL": "https://www.instagram.com/rozwellkid/",
+		"bandcampURL": "https://rozwellkid.bandcamp.com/"
 	},
 	{
-		"name": "Lone Wolf",
-		"city": "Rotterdam, NL",
-		"bandcampURL": "https://wearelonewolf.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/wearelonewolf",
-		"instagramURL": "https://www.instagram.com/wearelonewolf/",
-		"youtubeURL": "//www.youtube.com/watch?v=CgVHZgZDFoI"
+		"name": "Ways Away",
+		"city": "Los Angeles, CA",
+		"websiteURL": "https://waysaway.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/waysawayband",
+		"instagramURL": "https://www.instagram.com/waysawayband/",
+		"bandcampURL": "https://waysaway.bandcamp.com/"
 	},
 	{
-		"name": "$$STARS$$",
-		"city": "Lévis, QC",
-		"bandcampURL": "https://peopleofpunkrock.bandcamp.com/album/before-the-weekend-single",
-		"facebookURL": "https://www.facebook.com/profile.php?id=100087024906547&mibextid=LQQJ4d",
-		"instagramURL": "https://www.instagram.com/ssstarsssband/"
+		"name": "The Ergs",
+		"city": "South Amboy, NJ",
+		"websiteURL": "https://theergs.bandcamp.com/",
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": "https://theergs.bandcamp.com/"
 	},
 	{
-		"name": "Abertooth Lincoln",
-		"city": "Dayton, OH",
-		"bandcampURL": "https://abertoothlincoln.bandcamp.com/track/jones-ya-glad-i-didnt-say-alex",
-		"facebookURL": "https://www.facebook.com/abertoothlincoln",
-		"instagramURL": "https://www.instagram.com/abertooth_lincoln/?hl=en",
-		"youtubeURL": "//www.youtube.com/watch?v=AI4j_GFKbP"
+		"name": "Catbite",
+		"city": "Philadelphia, PA",
+		"websiteURL": "https://Catbite.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/catbiteband",
+		"instagramURL": "https://www.instagram.com/catbiteband/",
+		"bandcampURL": "https://Catbite.bandcamp.com"
 	},
 	{
-		"name": "Alie Sin",
-		"city": "Quebec, QC",
-		"bandcampURL": "https://aliesin.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/aliesinband?mibextid=LQQJ4d",
-		"instagramURL": "https://instagram.com/alie.sin"
-	},
-	{
-		"name": "Among Legends",
+		"name": "Kiwi Jr.",
 		"city": "Toronto, ON",
-		"bandcampURL": "https://amonglegends519.bandcamp.com",
-		"facebookURL": "https://facebook.com/AmongLegends519",
-		"instagramURL": "https://instagram.com/AmongLegends519"
+		"websiteURL": "https://www.kiwijr.com/",
+		"facebookURL": "https://www.facebook.com/kiwijrgroup/",
+		"instagramURL": "https://www.instagram.com/kiwijr/",
+		"bandcampURL": null
+	},
+	{
+		"name": "JER",
+		"city": "Gainesville, FL",
+		"websiteURL": "https://jerska.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/Skatunenetwork",
+		"instagramURL": "https://www.instagram.com/jer.band",
+		"bandcampURL": "https://jerska.bandcamp.com"
+	},
+	{
+		"name": "This Is Hell",
+		"city": "New York, NY",
+		"websiteURL": "https://thisishell.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/thisishellny",
+		"instagramURL": "https://www.instagram.com/thisishellny",
+		"bandcampURL": "https://thisishell.bandcamp.com/"
+	},
+	{
+		"name": "MakeWar",
+		"city": "Brooklyn, NY",
+		"websiteURL": "http://www.makewarband.com",
+		"facebookURL": "https://www.facebook.com/MakeWarNYC",
+		"instagramURL": "https://www.instagram.com/makewarmusic/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Pete Bernhard",
+		"city": "Santa Cruz, CA",
+		"websiteURL": "https://www.petebernhard.com/",
+		"facebookURL": "https://www.facebook.com/people/Pete-Bernhard-of-The-Devil-Makes-Three/100063009769724/",
+		"instagramURL": "https://www.instagram.com/petebernhard/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Kali Masi",
+		"city": "Chicago, IL",
+		"websiteURL": "https://kalimasi.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/KaliMasiBand/",
+		"instagramURL": "https://www.instagram.com/kalimasiband/",
+		"bandcampURL": "https://kalimasi.bandcamp.com/"
+	},
+	{
+		"name": "Crazy & The Brains",
+		"city": "Bayonne, NJ",
+		"websiteURL": "https://crazyandthebrains.net/",
+		"facebookURL": "https://www.facebook.com/crazyandthebrains/",
+		"instagramURL": "https://www.instagram.com/crazyandthebrains/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Les Dorothée",
+		"city": "Repentigny, QC",
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/lesdorothee",
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "The Anti-Queens",
+		"city": "Toronto, ON",
+		"websiteURL": "https://antiqueens.com/",
+		"facebookURL": "https://www.facebook.com/TheAntiqueens",
+		"instagramURL": "https://www.instagram.com/theantiqueens",
+		"bandcampURL": null
+	},
+	{
+		"name": "Petite League",
+		"city": "Brooklyn, NY",
+		"websiteURL": "https://petiteleague.com",
+		"facebookURL": "https://www.facebook.com/petiteleague",
+		"instagramURL": "https://www.instagram.com/petiteleague",
+		"bandcampURL": null
+	},
+	{
+		"name": "The Penske File",
+		"city": "Hamilton, ON",
+		"websiteURL": "https://www.thepenskefile.net/",
+		"facebookURL": "https://www.facebook.com/thepenskefile",
+		"instagramURL": "https://www.instagram.com/the_penskefile/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Snodgrass + Buddies",
+		"city": "Fort Collins, CO",
+		"websiteURL": "https://www.jonsnodgrass.com",
+		"facebookURL": "https://www.facebook.com/JonSnodgrassMusic",
+		"instagramURL": "https://www.instagram.com/jonsnodgrass/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Skating Polly",
+		"city": "Oklahoma City, OK",
+		"websiteURL": "http://www.skatingpolly.com/",
+		"facebookURL": "https://www.facebook.com/SkatingPolly/",
+		"instagramURL": "https://www.instagram.com/skatingpolly/",
+		"bandcampURL": null
+	},
+	{
+		"name": "The Iron Roses",
+		"city": "Elkton, MD",
+		"websiteURL": "https://www.ironroses.band/",
+		"facebookURL": "https://www.facebook.com/TheIronRoses/",
+		"instagramURL": "https://www.instagram.com/theironroses/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Billy Liar",
+		"city": "Edinburgh, UK",
+		"websiteURL": "https://www.billyliarmusic.com/",
+		"facebookURL": "https://www.facebook.com/official.billy.liar/",
+		"instagramURL": "https://www.instagram.com/officialbillyliar/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Peanut Butter Sunday",
+		"city": "Baie Sainte-Marie, NS",
+		"websiteURL": "https://linktr.ee/peanutbuttersundayessir",
+		"facebookURL": "https://www.facebook.com/peanutbuttersunday",
+		"instagramURL": "https://instagram.com/peanutbuttersundayessir",
+		"bandcampURL": null
+	},
+	{
+		"name": "Rebuilder",
+		"city": "Boston, MA",
+		"websiteURL": "https://rebuilderboston.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/RebuilderBoston",
+		"instagramURL": "https://www.instagram.com/rebuilderboston/",
+		"bandcampURL": "https://rebuilderboston.bandcamp.com"
+	},
+	{
+		"name": "Pigeon Pit",
+		"city": "Olympia, WA",
+		"websiteURL": "https://pigeonpit.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/pigeonpit/",
+		"instagramURL": null,
+		"bandcampURL": "https://pigeonpit.bandcamp.com/"
+	},
+	{
+		"name": "A.S.K.",
+		"city": "Boisbriand, QC",
+		"websiteURL": "https://ask-skapunk1996-1998.bandcamp.com/",
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": "https://ask-skapunk1996-1998.bandcamp.com/"
+	},
+	{
+		"name": "American Television",
+		"city": "Washington, DC",
+		"websiteURL": "https://amtv.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/americantelevision",
+		"instagramURL": "https://www.instagram.com/amtvband/",
+		"bandcampURL": "https://amtv.bandcamp.com"
 	},
 	{
 		"name": "Ancient Teeth",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://ancientteethband.bandcamp.com/",
+		"websiteURL": "https://ancientteethband.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/ancientteeth/",
-		"instagramURL": "https://www.instagram.com/ancientteeth/"
+		"instagramURL": "https://www.instagram.com/ancientteeth/",
+		"bandcampURL": "https://ancientteethband.bandcamp.com/"
 	},
 	{
-		"name": "Answering Machine",
-		"city": "Brooklyn, NY",
-		"bandcampURL": "https://answeringmachine.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/answeringmachinenyc/"
+		"name": "Another Michael",
+		"city": "Phildelphia, PA",
+		"websiteURL": "https://linktr.ee/AM_TOUR",
+		"facebookURL": "https://www.facebook.com/anothermichaelmusic/",
+		"instagramURL": "https://www.instagram.com/anothermichaelofficial/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Arms &#038; Hearts",
-		"city": "Manchester, UK",
-		"bandcampURL": "https://armsandhearts.bandcamp.com/album/the-distance-between",
-		"facebookURL": "https://www.facebook.com/ArmsandHearts",
-		"instagramURL": "https://www.instagram.com/armsandhearts/"
-	},
-	{
-		"name": "Audible Ghost",
-		"city": "Dundas, ON"
-	},
-	{
-		"name": "Audio/Rocketry",
-		"city": "Edmonton, AB",
-		"bandcampURL": "https://audiorocketry.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/audiorocketry/",
-		"instagramURL": "https://www.instagram.com/audio_rocketry/"
-	},
-	{
-		"name": "Awfun Din",
-		"city": "Brooklyn, NY",
-		"bandcampURL": "https://awfuldin.bandcamp.com/",
-		"extraInfo": "https://bandnada.com/b/awfuldin",
-		"instagramURL": "https://www.instagram.com/awfuldinbk/"
-	},
-	{
-		"name": "Bankshots",
-		"city": "Toronto, ON"
-	},
-	{
-		"name": "BÀRBE À PÀPÀ",
+		"name": "Ask Ophelia",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://bap666.bandcamp.com/track/dix-trous",
-		"facebookURL": "https://www.facebook.com/barbeapapa666"
+		"websiteURL": "https://askophelia.bandcamp.com/music",
+		"facebookURL": "https://www.facebook.com/Askophelia",
+		"instagramURL": "https://www.instagram.com/askophelia/",
+		"bandcampURL": "https://askophelia.bandcamp.com/music"
 	},
 	{
-		"name": "BARNAK",
-		"city": "Montréal, QC",
-		"facebookURL": "https://www.facebook.com/barnakmtl"
+		"name": "Athlete",
+		"city": "Salavaux, CH",
+		"websiteURL": "https://linktr.ee/athlete_punkrock",
+		"facebookURL": "https://www.facebook.com/athletepunk",
+		"instagramURL": "https://www.instagram.com/athlete_punkrock",
+		"bandcampURL": null
 	},
 	{
-		"name": "Blurry Eyes",
+		"name": "Avem",
+		"city": "Toronto, ON",
+		"websiteURL": "https://Avemtheband.com",
+		"facebookURL": "https://www.facebook.com/avem.theband",
+		"instagramURL": "https://www.instagram.com/avem.theband/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Bad Bad Bird",
+		"city": "Paris, FR",
+		"websiteURL": "https://badbadbird.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/badbadbirdmusique/",
+		"instagramURL": "https://www.instagram.com/badbadbirdmusique/",
+		"bandcampURL": "https://badbadbird.bandcamp.com"
+	},
+	{
+		"name": "Basement Dweller",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://blurryeyes.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/BlurryEyesMTL",
-		"instagramURL": "https://www.instagram.com/blurryeyesmtl/"
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "Birds of Prrrey",
+		"city": "Montréal, QC",
+		"websiteURL": "https://linktr.ee/birdsofprrrey",
+		"facebookURL": "https://www.facebook.com/profile.php?id=100090924331155",
+		"instagramURL": "https://www.instagram.com/birdsofprrrey",
+		"bandcampURL": null
+	},
+	{
+		"name": "Black Guy Fawkes",
+		"city": "Cumberland, MD",
+		"websiteURL": "https://BlackGuyFawkesMusic.Bandcamp.Com",
+		"facebookURL": "https://www.facebook.com/blackguyfawkesmusic",
+		"instagramURL": "https://www.instagram.com/blackguyfawkes",
+		"bandcampURL": null
+	},
+	{
+		"name": "Blind Adam and the Federal League",
+		"city": "Chicago, IL",
+		"websiteURL": "https://www.blindadamandthefederalleague.com/",
+		"facebookURL": "https://www.facebook.com/blindadammusic/",
+		"instagramURL": "https://www.instagram.com/Blindadamfederal/",
+		"bandcampURL": null
 	},
 	{
 		"name": "BOIDS",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://boids.bandcamp.com/album/disassociation-ep",
+		"websiteURL": "https://boids.bandcamp.com/album/disassociation-ep",
 		"facebookURL": "https://www.facebook.com/boidsboidsboids",
 		"instagramURL": "https://www.instagram.com/boidsboidsboids",
-		"youtubeURL": "//www.youtube.com/watch?v=nD42hjCGVGg"
-	},
-	{
-		"name": "Boss&#8217; Daughter",
-		"city": "Reno, NV",
-		"bandcampURL": "https://bossdaughter.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/bossdaughter",
-		"twitterURL": "https://twitter.com/bossdaughtereno",
-		"instagramURL": "https://www.instagram.com/bossdaughter/",
-		"youtubeURL": "//www.youtube.com/watch?v=D-s6DOaCyj8"
-	},
-	{
-		"name": "Brand New Lungs",
-		"city": "Montréal, QC",
-		"bandcampURL": "brandnewlungs.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/brandnewlungs",
-		"instagramURL": "https://instagram.com/brandnewlungsmtl"
-	},
-	{
-		"name": "Bring The Light",
-		"city": "St-Jean, QC",
-		"bandcampURL": "https://bringthelight.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/bringthelightband",
-		"instagramURL": "https://www.instagram.com/bringthelightband"
-	},
-	{
-		"name": "Bucky Harris",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://buckyharris.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/buckyharrisband",
-		"twitterURL": "https://twitter.com/buckyharrisband",
-		"instagramURL": "https://www.instagram.com/buckyharrisband/",
-		"youtubeURL": "//www.youtube.com/watch?v=CEacwJ-k8mE"
-	},
-	{
-		"name": "Call Me Rita",
-		"city": "Colombus, OH",
-		"bandcampURL": "https://callmerita.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/VanessaJeanSpeckmanArt",
-		"instagramURL": "https://www.instagram.com/call.me.rita.the.band"
+		"bandcampURL": "https://boids.bandcamp.com/album/disassociation-ep"
 	},
 	{
 		"name": "Capable!",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://capable.bandcamp.com/album/br-le-br-le-br-le",
-		"facebookURL": "https://fr-ca.facebook.com/capableband/",
+		"websiteURL": "https://capable.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/capableband/",
 		"instagramURL": "https://www.instagram.com/capable_band",
-		"youtubeURL": "//www.youtube.com/watch?v=OtfUh4hOd1o"
+		"bandcampURL": "https://capable.bandcamp.com"
+	},
+	{
+		"name": "Chou",
+		"city": "Montréal, QC",
+		"websiteURL": "https://lebandchou.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/lebandchou/",
+		"instagramURL": "https://www.instagram.com/lebandchou/",
+		"bandcampURL": "https://lebandchou.bandcamp.com"
 	},
 	{
 		"name": "Chuck Coles",
 		"city": "Toronto, ON",
-		"bandcampURL": "https://chuckcoles.bandcamp.com/",
+		"websiteURL": "https://chuckcoles.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/chuck.coles.52",
-		"instagramURL": "https://www.instagram.com/c_h_u_c_k_c_o_l_e_s_/"
+		"instagramURL": "https://www.instagram.com/c_h_u_c_k_c_o_l_e_s_/",
+		"bandcampURL": "https://chuckcoles.bandcamp.com/"
 	},
 	{
-		"name": "City Mouse",
-		"city": "Tampa, FL",
-		"bandcampURL": "https://citymouse.bandcamp.com/album/magnitude",
-		"facebookURL": "https://www.facebook.com/citymousepunk",
-		"twitterURL": "https://twitter.com/citymousepunk",
-		"instagramURL": "https://www.instagram.com/citymousepunk/",
-		"youtubeURL": "//www.youtube.com/watch?v=4ERilFMoMo"
-	},
-	{
-		"name": "Cold Wrecks",
-		"city": "Brooklyn, NY",
-		"bandcampURL": "https://coldwrecks.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/ColdWrecks",
-		"twitterURL": "https://twitter.com/coldwrecks",
-		"instagramURL": "https://www.instagram.com/coldwrecks/",
-		"youtubeURL": "//www.youtube.com/watch?v=h4mlW-TZYRY"
-	},
-	{
-		"name": "Colletti",
-		"city": "Saarbrücken, DE",
-		"bandcampURL": "https://colletti.bandcamp.com/album/searching-for-former-solace",
-		"facebookURL": "https://www.facebook.com/konfetti.de",
-		"instagramURL": "https://instagram.com/colletti_sounds"
-	},
-	{
-		"name": "Condition Apply",
+		"name": "Colin Moore",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://conditionsapplymtl.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/ConditionsApplyBand/",
-		"instagramURL": "https://instagram.com/conditionsapply514/"
+		"websiteURL": "https://colinmoore.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/colinmoorefanpage/",
+		"instagramURL": "https://www.instagram.com/colinmooremusic/",
+		"bandcampURL": "https://colinmoore.bandcamp.com/"
 	},
 	{
-		"name": "Craig Shay",
-		"city": "Brooklyn, NY",
-		"bandcampURL": "https://craigshay.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/craigshaymusic",
-		"instagramURL": "https://www.instagram.com/craigshay/"
+		"name": "Conflit Majeur",
+		"city": "Montréal, QC",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/Conflitmajeurband",
+		"bandcampURL": null
 	},
 	{
-		"name": "Crazy Arm",
-		"city": "Devon, UK",
-		"bandcampURL": "https://crazyarm.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/thecrazyarm/",
-		"instagramURL": "https://www.instagram.com/crazyarm_official/"
+		"name": "Counterpunch",
+		"city": "Chicago, IL",
+		"websiteURL": "https://www.counterpunchrock.com/",
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "Crachat",
+		"city": "Québec, QC",
+		"websiteURL": "https://Crachat.com",
+		"facebookURL": "https://www.facebook.com/crachatQC",
+		"instagramURL": "https://www.instagram.com/crachat.band",
+		"bandcampURL": null
 	},
 	{
 		"name": "Cross Dog",
 		"city": "Toronto, ON",
-		"bandcampURL": "https://crossdog.bandcamp.com/album/s-t-redux-2020-remake",
+		"websiteURL": "https://crossdog.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/CrossDog/",
-		"instagramURL": "https://www.instagram.com/crossdog666"
+		"instagramURL": "https://www.instagram.com/crossdog666",
+		"bandcampURL": "https://crossdog.bandcamp.com"
 	},
 	{
-		"name": "Debt Cemetary",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://debtcemetary.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/debtcemetary",
-		"instagramURL": "https://www.instagram.com/debtcemetary/"
+		"name": "Darko",
+		"city": "Surrey, UK",
+		"websiteURL": "https://darko.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/Darkoband",
+		"instagramURL": "https://www.instagram.com/darko_band/",
+		"bandcampURL": "https://darko.bandcamp.com/"
+	},
+	{
+		"name": "David Dondero",
+		"city": "Pensacola, FL",
+		"websiteURL": "https://www.davedondero.com/",
+		"facebookURL": "https://www.facebook.com/daviddonderomusicofficial/",
+		"instagramURL": "https://www.instagram.com/dave_dondero/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Dead Alright",
+		"city": "Drummondville, QC",
+		"websiteURL": "https://linktr.ee/deadalright",
+		"facebookURL": "https://www.facebook.com/deadalright",
+		"instagramURL": "https://www.instagram.com/deadalrightpunk",
+		"bandcampURL": null
+	},
+	{
+		"name": "Deathnap",
+		"city": "Montréal, QC",
+		"websiteURL": "https://withkoji.com/@deathnap",
+		"facebookURL": "https://www.facebook.com/deathnap",
+		"instagramURL": "https://www.instagram.com/deathnap514/",
+		"bandcampURL": null
 	},
 	{
 		"name": "Decent Criminal",
 		"city": "Santa Rosa, CA",
-		"bandcampURL": "https://decentcriminal.bandcamp.com/track/summer-trip",
-		"facebookURL": "https://facebook.com/DecentCriminal08/",
-		"instagramURL": "https://instagram.com/decentcriminal"
+		"websiteURL": "https://decentcriminal.bandcamp.com",
+		"facebookURL": "https://m.facebook.com/DecentCriminal08/",
+		"instagramURL": "https://instagram.com/decentcriminal",
+		"bandcampURL": "https://decentcriminal.bandcamp.com"
 	},
 	{
-		"name": "Defoy",
-		"city": "Kamouraska, QC"
-	},
-	{
-		"name": "Doghouse Rose",
+		"name": "Deforesters",
 		"city": "Toronto, ON",
-		"bandcampURL": "https://doghouserose.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/doghouserose",
-		"instagramURL": "https://www.instagram.com/doghouserose/",
-		"youtubeURL": "//www.youtube.com/watch?v=zzdUvfR3zTI"
+		"websiteURL": "https://deforesters.bandcamp.com/album/leonard",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/deforesters",
+		"bandcampURL": "https://deforesters.bandcamp.com/album/leonard"
 	},
 	{
-		"name": "Dogo Suicide",
-		"city": "Quebec, QC",
-		"bandcampURL": "https://dogosuicide.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/dogosuicideband",
-		"instagramURL": "https://www.instagram.com/dogosuicide_band/"
-	},
-	{
-		"name": "Double Date With Death",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://doubledatewithdeath.bandcamp.com/album/lau-del",
-		"facebookURL": "https://www.facebook.com/DoubleDateWithDeath/",
-		"instagramURL": "https://www.instagram.com/doubledatewdeath/"
-	},
-	{
-		"name": "Eamon McGrath",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://eamonmcgrath.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/people/Eamon-McGrath/100063631380002/",
-		"instagramURL": "https://www.instagram.com/eamon_mcgrath"
-	},
-	{
-		"name": "East End Radicals",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://eastendradicals.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/eastendradicals/",
-		"instagramURL": "https://www.instagram.com/EastEndRadicals/"
-	},
-	{
-		"name": "Elissa Janelle Velveteen",
-		"city": "Philadelphia, PA",
-		"bandcampURL": "https://www.elissajanellevelveteen.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/elissajanellevelveteen/",
-		"instagramURL": "http://instagram.com/rocknrollsharptooth"
-	},
-	{
-		"name": "Ellen and the Degenerates",
+		"name": "Desert Sharks",
 		"city": "Brooklyn, NY",
-		"bandcampURL": "https://ellenandthedegenerates.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/ellenandthedegenerates",
-		"twitterURL": "https://twitter.com/ellendegen666",
-		"instagramURL": "https://www.instagram.com/ellenandthedegeneratesnyc/",
-		"youtubeURL": "//www.youtube.com/watch?v=Wth2H8bSwDw"
+		"websiteURL": "https://desertsharks.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/desertsharks",
+		"instagramURL": "https://www.instagram.com/desertsharks",
+		"bandcampURL": "https://desertsharks.bandcamp.com"
 	},
 	{
-		"name": "Emily Davis",
-		"city": "El Paso, TX",
-		"bandcampURL": "https://emilydavis.bandcamp.com",
-		"facebookURL": "https://facebook.com/edavismusic",
-		"instagramURL": "https://instagram.com/emilydavismusic"
+		"name": "Devon Kay & The Solutions",
+		"city": "Chicago, IL",
+		"websiteURL": "https://www.devonkayandthe.solutions",
+		"facebookURL": "https://www.facebook.com/devonkayandthesolutions",
+		"instagramURL": "https://www.instagram.com/devonkayandthesolutions",
+		"bandcampURL": null
 	},
 	{
-		"name": "Enfants Sauvages",
-		"city": "Québec, QC",
-		"bandcampURL": "https://enfantssauvages.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/profile.php?id=100063736385707",
-		"instagramURL": "https://www.instagram.com/enfants_sauvages_officiel"
+		"name": "Dirty Cheetah",
+		"city": "Montréal, QC",
+		"websiteURL": "https://dirtycheetah.bandcamp.com/album/never-too-late",
+		"facebookURL": "https://www.facebook.com/DirtyCheetah",
+		"instagramURL": "https://www.instagram.com/dirty_cheetah_band/",
+		"bandcampURL": "https://dirtycheetah.bandcamp.com/album/never-too-late"
 	},
 	{
-		"name": "Ezra Cohen",
-		"city": "Portsmouth, NH",
-		"bandcampURL": "https://ezracohen.bandcamp.com/album/the-sweet-million",
-		"instagramURL": "http://instagram.com/ezrabcohen"
+		"name": "Dirty FrenchKiss",
+		"city": "Nevers, FR",
+		"websiteURL": "https://dirtyfrenchkiss.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/dirtyfrenchkiss/",
+		"instagramURL": "https://www.instagram.com/dirtyfrenchkiss_officiel/",
+		"bandcampURL": "https://dirtyfrenchkiss.bandcamp.com/"
 	},
 	{
-		"name": "Fat Heaven",
-		"city": "Brooklyn, NY",
-		"bandcampURL": "https://fatheaven.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/FatHeaven",
-		"instagramURL": "https://www.instagram.com/fatheavenband/"
+		"name": "Dollar Signs",
+		"city": "Charlotte, NC",
+		"websiteURL": "https://dollarsigns.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/dollarsignstheband/",
+		"instagramURL": "https://www.instagram.com/dollarsignstheband/",
+		"bandcampURL": "https://dollarsigns.bandcamp.com/"
 	},
 	{
-		"name": "Fire Cult",
+		"name": "Dylan Lana",
+		"city": "Corral De Bustos, AR",
+		"websiteURL": "https://dylanlana.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/eldylanlana",
+		"instagramURL": "https://www.instagram.com/eldylanlana",
+		"bandcampURL": "https://dylanlana.bandcamp.com/"
+	},
+	{
+		"name": "Early Flights",
 		"city": "Madrid, ES",
-		"bandcampURL": "https://wediealiverecords.bandcamp.com/album/fire-cult-we-die-alive",
-		"facebookURL": "https://www.facebook.com/firecultband",
-		"instagramURL": "https://www.instagram.com/firecultband/"
+		"websiteURL": "https://earlyflights.bandcamp.com/",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/earlyflightsband/",
+		"bandcampURL": "https://earlyflights.bandcamp.com/"
 	},
 	{
-		"name": "Flying Raccoon Suit",
-		"city": "Ocean Springs, MS",
-		"bandcampURL": "https://flyingraccoonsuit.bandcamp.com/album/afterglow",
-		"facebookURL": "https://www.facebook.com/flyingraccoonsuit",
-		"instagramURL": "https://www.instagram.com/flyingraccoonsuit/"
-	},
-	{
-		"name": "FOMO",
+		"name": "FAKEYOU",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://fomomtl.bandcamp.com/merch/knife-dog-tees",
-		"facebookURL": "https://www.facebook.com/FOMOMtl/",
-		"instagramURL": "https://www.instagram.com/fomomtl/"
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/fakeuband/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Fortune Cookie Club",
+		"name": "Family Dinner",
+		"city": "New York, NY",
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/familydinnerusa",
+		"instagramURL": "instagram.com/familydinnerusa",
+		"bandcampURL": null
+	},
+	{
+		"name": "Felicity Hamer and Black Leather Rose",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://fortunecookieclub.bandcamp.com",
-		"facebookURL": "https://facebook.com/fortunecookieclub/",
-		"instagramURL": "https://www.instagram.com/fortune_cookie_club/"
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
 	},
 	{
-		"name": "FRVITS",
+		"name": "Flycatcher",
+		"city": "Asbury Park, NJ",
+		"websiteURL": "https://Flycatchernj.bandcamp.com",
+		"facebookURL": "https://m.facebook.com/flycatchernj",
+		"instagramURL": "https://www.instagram.com/flycatcherband",
+		"bandcampURL": "https://Flycatchernj.bandcamp.com"
+	},
+	{
+		"name": "Frontrow",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://slovenly.bandcamp.com/album/frvits-stupid-era-ep",
-		"instagramURL": "https://www.instagram.com/_frvits_/"
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/frontrowbandmtl",
+		"instagramURL": "https://www.instagram.com/frontrowofficiel/",
+		"bandcampURL": null
 	},
 	{
-		"name": "General Chaos",
+		"name": "Fuck Toute",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://killgeneralchaos.bandcamp.com/album/general-chaos-demo",
-		"instagramURL": "https://www.instagram.com/general.chaos.band"
+		"websiteURL": "http://www.fucktoute.com",
+		"facebookURL": "https://www.facebook.com/phoquetoute/",
+		"instagramURL": "https://www.instagram.com/fucktouteband/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Ghost Town Remedy",
-		"city": "Nashville, TN",
-		"bandcampURL": "https://ghosttownremedy.bandcamp.com/album/terminally-chill",
-		"facebookURL": "https://www.facebook.com/ghosttownremedy/",
-		"instagramURL": "https://www.instagram.com/ghosttownremedy",
-		"youtubeURL": "//www.youtube.com/watch?v=AooSAvknLhA"
+		"name": "Georgia Maq",
+		"city": "Footscray, AUS",
+		"websiteURL": "https://georgiamaq.bandcamp.com",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/goldsoundz_/",
+		"bandcampURL": "https://georgiamaq.bandcamp.com"
 	},
 	{
-		"name": "Guilhem",
+		"name": "Gutser",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://www.guilhem.bandcamp.com",
-		"facebookURL": "https://www.fb.com/guilhemmusic",
-		"instagramURL": "https://www.instagram.com/burritokindofguy",
-		"youtubeURL": "//www.youtube.com/watch?v=QGGw6WgF9eg"
+		"websiteURL": "https://gutser.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/gutserdepmetal/",
+		"instagramURL": "https://www.instagram.com/gutser_tv",
+		"bandcampURL": "https://gutser.bandcamp.com/"
 	},
 	{
-		"name": "Guttrot",
+		"name": "Handheld",
+		"city": "Kitchener, ON",
+		"websiteURL": "https://linktr.ee/handheldpunk",
+		"facebookURL": "https://www.facebook.com/handheldpunk/",
+		"instagramURL": "https://www.instagram.com/handheldpunk",
+		"bandcampURL": null
+	},
+	{
+		"name": "Heavy Lag",
+		"city": "Brooklyn, NY",
+		"websiteURL": "https://linktr.ee/HEAVYLAG",
+		"facebookURL": "https://www.facebook.com/heavylag",
+		"instagramURL": "https://www.instagram.com/heavylag",
+		"bandcampURL": null
+	},
+	{
+		"name": "Hell Beach",
+		"city": "Manchester, NH",
+		"websiteURL": "https://hellbeachband.bandcamp.com/album/hell-beach",
+		"facebookURL": "https://www.facebook.com/hellbeachpunk/",
+		"instagramURL": "https://www.instagram.com/hellbeachband/",
+		"bandcampURL": "https://hellbeachband.bandcamp.com/album/hell-beach"
+	},
+	{
+		"name": "Her Head’s On Fire",
+		"city": "New York, NY",
+		"websiteURL": "https://herheadsonfire.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/herheadsonfire/",
+		"instagramURL": "https://www.instagram.com/her_heads_on_fire/",
+		"bandcampURL": "https://herheadsonfire.bandcamp.com/"
+	},
+	{
+		"name": "Hipshot",
+		"city": "Québec, QC",
+		"websiteURL": "https://hipshot.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/hipshotrock",
+		"instagramURL": "https://www.instagram.com/hipshotrock/",
+		"bandcampURL": "https://hipshot.bandcamp.com"
+	},
+	{
+		"name": "Hit Like A Girl",
+		"city": "Montclair, NJ",
+		"websiteURL": "https://hitlikeagirl.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/hitlikeagirlband/",
+		"instagramURL": null,
+		"bandcampURL": "https://hitlikeagirl.bandcamp.com"
+	},
+	{
+		"name": "In The Meantime",
+		"city": "Boston, MA",
+		"websiteURL": "https://gtownrecords.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/inthemeantimeboston",
+		"instagramURL": "https://www.instagram.com/itmeantime/",
+		"bandcampURL": "https://gtownrecords.bandcamp.com/"
+	},
+	{
+		"name": "Intenable",
+		"city": "Bordeaux, FR",
+		"websiteURL": "https://intenable.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/Intenable/",
+		"instagramURL": "https://www.instagram.com/intenablepunkrock",
+		"bandcampURL": "https://intenable.bandcamp.com/"
+	},
+	{
+		"name": "Jason Paul of the Know It Alls",
+		"city": "Los Angeles, CA",
+		"websiteURL": "https://jpandtheknowitalls.com",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/jasonpaul_theknowitalls",
+		"bandcampURL": null
+	},
+	{
+		"name": "Jenny Woo",
+		"city": "Ottawa, ON",
+		"websiteURL": "https://www.facebook.com/jennywoooiproject?mibextid=ZbWKwL",
+		"facebookURL": "https://www.facebook.com/jennywoooiproject?mibextid=ZbWKwL",
+		"instagramURL": "https://www.instagram.com/jennywoooi",
+		"bandcampURL": null
+	},
+	{
+		"name": "Jo Bergeron",
+		"city": "Québec, QC",
+		"websiteURL": "https://jobergeron.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/jobergeronmusic/",
+		"instagramURL": null,
+		"bandcampURL": "https://jobergeron.bandcamp.com/"
+	},
+	{
+		"name": "Joey Affatato",
+		"city": "Trenton, NJ",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "Josh & the Dirty Rags",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://guttrot-mtl.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/GUTTROT",
-		"instagramURL": "https://www.instagram.com/guttrotmtl"
-	},
-	{
-		"name": "Hans Gruber &#038; The Die Hards",
-		"city": "Austin, TX",
-		"bandcampURL": "https://hansgruberandthediehards.bandcamp.com/album/with-a-vengeance",
-		"facebookURL": "https://www.facebook.com/HansGruberAndTheDieHards/",
-		"instagramURL": "https://www.instagram.com/hansgruberandthediehards/"
-	},
-	{
-		"name": "Heart &#038; Lung",
-		"city": "Cleveland, OH",
-		"bandcampURL": "https://heartandlung.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/heartandlungcleveland/",
-		"instagramURL": "https://www.instagram.com/heartandlung"
-	},
-	{
-		"name": "Heart Attack Kids",
-		"city": "London, ON",
-		"bandcampURL": "https://heartattackkidsband.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/heartattackkids?mibextid=LQQJ4d",
-		"twitterURL": "https://twitter.com/heartattackkids",
-		"instagramURL": "https://www.instagram.com/heartattackkids/",
-		"youtubeURL": "//www.youtube.com/watch?v=s1OMA7MedDY"
-	},
-	{
-		"name": "Heartless Folk",
-		"city": "San Francisco, CA",
-		"bandcampURL": "https://heartlessfolk.bandcamp.com/music",
-		"facebookURL": "https://facebook.com/100056370732217/",
-		"instagramURL": "https://instagram.com/heartless.folk"
-	},
-	{
-		"name": "Heavy Petter",
-		"city": "Barrie, ON",
-		"bandcampURL": "https://heavypetter.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/heavypetterband",
-		"instagramURL": "https://www.instagram.com/heavypetter_music/"
-	},
-	{
-		"name": "Hellbent",
-		"city": "Hamilton, ON",
-		"bandcampURL": "https://hellbentband.bandcamp.com",
-		"facebookURL": "https://facebook.com/hellbenthc",
-		"instagramURL": "http://instagram.com/hellbenthc"
-	},
-	{
-		"name": "Jacob Danielsen-Moore",
-		"city": "Johnson City, TN",
-		"bandcampURL": "https://jacobdanielsenmoore.bandcamp.com/album/new-year-k-no-w-me",
-		"facebookURL": "https://www.facebook.com/jacobdanielsenmoore",
-		"instagramURL": "http://instagram.com/jacobdanielsenmooreandtheboys"
-	},
-	{
-		"name": "Joe Vickers",
-		"city": "Drumheller, AB",
-		"bandcampURL": "https://joevickers.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/joevickersmusic",
-		"instagramURL": "https://www.instagram.com/barleyjoe"
-	},
-	{
-		"name": "Jorgensen",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://jorgensen.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/Jorgensensorgan"
-	},
-	{
-		"name": "Joystick",
-		"city": "New Orleans, US",
-		"bandcampURL": "https://joysticknola.bandcamp.com/album/i-cant-take-it-anymore",
-		"facebookURL": "https://www.facebook.com/JoystickSka/",
-		"instagramURL": "https://www.instagram.com/joysticknola"
+		"websiteURL": "https://joshandthedirtyrags.com",
+		"facebookURL": "https://www.facebook.com/joshandthedirtyrags",
+		"instagramURL": "https://www.instagram.com/josh.and.the.dirty.rags/",
+		"bandcampURL": null
 	},
 	{
 		"name": "Julius Sumner Miller",
 		"city": "Calgary, AB",
-		"bandcampURL": "https://juliussumnermiller.bandcamp.com/",
+		"websiteURL": "https://juliussumnermiller.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/juliussumnermillerband/",
-		"twitterURL": "https://twitter.com/JSMband",
-		"instagramURL": "https://www.instagram.com/juliussumnermiller/"
+		"instagramURL": "https://www.instagram.com/juliussumnermiller/",
+		"bandcampURL": "https://juliussumnermiller.bandcamp.com/"
 	},
 	{
-		"name": "Kicksie",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://kicksie.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/kicksiemusic/",
-		"instagramURL": "https://www.instagram.com/kicksie/"
-	},
-	{
-		"name": "L&#8217;Affaire Pélican",
-		"city": "St-Eustache, QC",
-		"bandcampURL": "https://laffairepelican.bandcamp.com",
-		"facebookURL": "https://facebook.com/laffairepelican/",
-		"instagramURL": "https://www.instagram.com/laffairepelican"
-	},
-	{
-		"name": "La Dérape",
-		"city": "Boucherville, QC",
-		"bandcampURL": "https://laderape.bandcamp.com/album/ville-fant-me",
-		"facebookURL": "https://www.facebook.com/laderapepunk",
-		"instagramURL": "https://www.instagram.com/laderapepunk/"
-	},
-	{
-		"name": "La Querelle",
+		"name": "K-Man & the 45s",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://laquerelle.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/laquerelle",
-		"instagramURL": "https://www.instagram.com/laquerelle"
+		"websiteURL": "https://kmanthe45s.bandpage.com/",
+		"facebookURL": "https://www.facebook.com/kman45",
+		"instagramURL": "https://www.instagram.com/kmanandthe45s/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Le Dernier Assaut",
-		"city": "St-Jean, QC",
-		"facebookURL": "https://www.facebook.com/LeDernierAssaut",
-		"instagramURL": "https://www.instagram.com/ledernierassaut/"
-	},
-	{
-		"name": "Les Ordures Ioniques",
+		"name": "Kennedy",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://lesorduresioniques.bandcamp.com/album/les-ordures-ioniques",
-		"facebookURL": "https://www.facebook.com/LesOrduresIoniques/",
-		"instagramURL": "https://www.instagram.com/lesorduresioniquesofficiel/"
+		"websiteURL": "http://theguiltypoor.com/",
+		"facebookURL": "https://www.facebook.com/kennedyhxc",
+		"instagramURL": null,
+		"bandcampURL": null
 	},
 	{
-		"name": "Less Miserable",
-		"city": "Calgary, AB",
-		"bandcampURL": "https://lessmiserable14.bandcamp.com/album/43-chinook",
-		"facebookURL": "https://www.facebook.com/LessMiserable14",
-		"instagramURL": "https://www.instagram.com/lessmiserable"
+		"name": "Killing Daisies",
+		"city": "Sept-Îles, QC",
+		"websiteURL": "https://killing-daisies.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/KillingDaisies/",
+		"instagramURL": "https://www.instagram.com/killingdaisies/",
+		"bandcampURL": "https://killing-daisies.bandcamp.com/"
 	},
 	{
-		"name": "Lucas Silveira",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://lucassilveiraofficial.bandcamp.com",
-		"facebookURL": "https://facebook.com/thereallucassilveira",
-		"instagramURL": "http://instagram.com/lucassilveira"
+		"name": "Latewaves",
+		"city": "Asbury Park, NJ",
+		"websiteURL": "https://www.latewaves.com",
+		"facebookURL": "https://www.facebook.com/latewaves",
+		"instagramURL": "https://www.instagram.com/latewaves",
+		"bandcampURL": null
 	},
 	{
-		"name": "Margaret Tracteur",
-		"city": "Québec, QC",
-		"bandcampURL": "https://margarettracteur.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/MargaretTracteur",
-		"instagramURL": "https://www.instagram.com/margarettracteur/"
-	},
-	{
-		"name": "Matty Grace",
-		"city": "Ottawa, ON",
-		"bandcampURL": "https://mattygrace.bandcamp.com/album/winter-trash",
-		"facebookURL": "https://www.facebook.com/mattygracemusic/",
-		"instagramURL": "https://www.instagram.com/mattydisgrace"
-	},
-	{
-		"name": "Micah Schnabel",
-		"city": "Colombus, OH",
-		"bandcampURL": "https://micahschnabel.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/Micahschnabelmusic/",
-		"instagramURL": "https://www.instagram.com/micahschnabel/"
-	},
-	{
-		"name": "Miesha &#038; The Spanks",
-		"city": "Calgary, AB",
-		"bandcampURL": "https://mieshathespanks.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/mandthespanks",
-		"instagramURL": "https://www.instagram.com/mandthespanks"
-	},
-	{
-		"name": "Mistake Not!",
-		"city": "Toronto, ON",
-		"youtubeURL": "https://www.youtube.com/watch?v=wlIDx_3beq0&feature=youtu.be"
-	},
-	{
-		"name": "Morgan",
+		"name": "Le Plan Caneton",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://morgancowpunk.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/morganband/"
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/leplancaneton",
+		"instagramURL": "https://www.instagram.com/le_plan_caneton/",
+		"bandcampURL": null
 	},
 	{
-		"name": "MVLL CRIMES",
-		"city": "London, ON",
-		"bandcampURL": "https://mvllcrimes.bandcamp.com/",
-		"instagramURL": "http://instagram.com/mvllcrimes"
+		"name": "Like A Motorcycle",
+		"city": "Halifax, NS",
+		"websiteURL": "https://likeamotorcycle.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/likeamotorcycle",
+		"instagramURL": "https://www.instagram.com/likeamotorcycle/",
+		"bandcampURL": "https://likeamotorcycle.bandcamp.com"
 	},
 	{
-		"name": "New Junk City",
-		"city": "Atlanta, GA",
-		"bandcampURL": "https://newjunkcityatl.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/newjunkcityatl/",
-		"instagramURL": "https://www.instagram.com/newjunkcityatl/"
+		"name": "Little Junior",
+		"city": "Toronto, ON",
+		"websiteURL": "https://littlejunior.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/liljuniorband/",
+		"instagramURL": null,
+		"bandcampURL": "https://littlejunior.bandcamp.com/"
 	},
 	{
-		"name": "No Matter",
-		"city": "Belfast, UK",
-		"bandcampURL": "https://nomatter1.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/nomatterband",
-		"twitterURL": "https://twitter.com/nomatterband",
-		"instagramURL": "https://www.instagram.com/nomatterband"
+		"name": "Lo(u)ser",
+		"city": "Long Beach, CA",
+		"websiteURL": "https://www.chrisgraue.com",
+		"facebookURL": "https://www.facebook.com/ChrisGraueTheLouser/",
+		"instagramURL": "https://www.instagram.com/chrisgraue/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Lord Friday the 13th",
+		"city": "Austin, TX",
+		"websiteURL": "https://www.lordfridaythe13th.com",
+		"facebookURL": "https://www.facebook.com/lordfridaythe13th/",
+		"instagramURL": "https://www.instagram.com/lordfridayland/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Matt Pless",
+		"city": "Catonsville, MD",
+		"websiteURL": "https://www.mattpless.com",
+		"facebookURL": "https://www.facebook.com/mattplessofficial",
+		"instagramURL": "https://www.instagram.com/mattplessmusic",
+		"bandcampURL": null
+	},
+	{
+		"name": "Métropole",
+		"city": "Repentigny, QC",
+		"websiteURL": "https://mtropole.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/MetropoleOfficiel",
+		"instagramURL": "https://www.instagram.com/metropole_band/",
+		"bandcampURL": "https://mtropole.bandcamp.com/"
+	},
+	{
+		"name": "Middle-Aged Queers",
+		"city": "Oakland, CA",
+		"websiteURL": "https://middleagedqueers.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/middleagedqueers",
+		"instagramURL": "https://www.instagram.com/middleagedqueers",
+		"bandcampURL": "https://middleagedqueers.bandcamp.com/"
+	},
+	{
+		"name": "Mike Natoli",
+		"city": "Suffern, NY",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "Mikey Erg",
+		"city": "New Jersey, NJ",
+		"websiteURL": "https://mikeyerg.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/mikeyergmusic",
+		"instagramURL": "https://www.instagram.com/mikeyerg/",
+		"bandcampURL": "https://mikeyerg.bandcamp.com"
 	},
 	{
 		"name": "No Waves",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://nowavesmtl.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/Nowavesband ",
-		"instagramURL": "https://www.instagram.com/fucknowaves/"
+		"websiteURL": "https://nowavesmtl.bandcamp.com/ ",
+		"facebookURL": "https://www.facebook.com/Nowavesband  ",
+		"instagramURL": "https://www.instagram.com/fucknowaves/",
+		"bandcampURL": "https://nowavesmtl.bandcamp.com/ "
 	},
 	{
-		"name": "Oh My Snare!",
+		"name": "Northwalk",
+		"city": "Trois-Rivières, QC",
+		"websiteURL": "https://linktr.ee/northwalkhc",
+		"facebookURL": "https://www.facebook.com/northwalkHC",
+		"instagramURL": "https://www.instagram.com/northwalk819/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Omnigone",
+		"city": "San Francisco, CA",
+		"websiteURL": null,
+		"facebookURL": "https://www.facebook.com/0MNIG0NE",
+		"instagramURL": "https://www.instagram.com/0mnig0ne",
+		"bandcampURL": null
+	},
+	{
+		"name": "One Last Threat",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://ohmysnare.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/ohmysnare",
-		"instagramURL": "https://www.instagram.com/ohmysnare/"
+		"websiteURL": "https://olthc.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/onelastthreat",
+		"instagramURL": "https://www.instagram.com/one_last_threat_hc/",
+		"bandcampURL": "https://olthc.bandcamp.com"
 	},
 	{
-		"name": "Oh The Humanity!",
-		"city": "Boston, MA",
-		"bandcampURL": "https://ohthehumanitymass.bandcamp.com/album/oh-the-humanity"
+		"name": "ONETIMER",
+		"city": "Montréal, QC",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
 	},
 	{
-		"name": "One Fall",
-		"city": "Salem, MA",
-		"bandcampURL": "https://onefall.bandcamp.com/album/one-fall",
-		"facebookURL": "https://www.facebook.com/OneFallMA",
-		"instagramURL": "https://www.instagram.com/onefallma"
+		"name": "Outlier",
+		"city": "Montréal, QC",
+		"websiteURL": "https://www.youtube.com/@outliermtl",
+		"facebookURL": "https://www.facebook.com/profile.php?id=100095138775714",
+		"instagramURL": "https://www.instagram.com/outliermtl/",
+		"bandcampURL": null
+	},
+	{
+		"name": "PACE",
+		"city": "Montréal, QC",
+		"websiteURL": "https://pacebandmtl.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/pacebandmtl",
+		"instagramURL": "https://instagram.com/pacebandmtl/",
+		"bandcampURL": "https://pacebandmtl.bandcamp.com/"
 	},
 	{
 		"name": "Panic Attack",
 		"city": "Quebec, QC",
-		"bandcampURL": "https://panicattack.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/crisedangoisse"
+		"websiteURL": "https://panicattack.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/crisedangoisse",
+		"instagramURL": "https://www.instagram.com/panicattackqc/",
+		"bandcampURL": "https://panicattack.bandcamp.com/"
 	},
 	{
-		"name": "Pity Party",
-		"city": "Oakland, CA",
-		"bandcampURL": "https://therealpityparty.bandcamp.com/",
-		"facebookURL": "https://facebook.com/therealpityparty/",
-		"twitterURL": "https://twitter.com/PityPartyBand",
-		"instagramURL": "http://instagram.com/therealpityparty",
-		"youtubeURL": "//www.youtube.com/watch?v=ElSfJFNLuFg"
+		"name": "PasMort",
+		"city": "Rivière-du-Loup, QC",
+		"websiteURL": "https://pasmort.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/pasmortband/",
+		"instagramURL": "https://www.instagram.com/pasmortpunk/",
+		"bandcampURL": "https://pasmort.bandcamp.com/"
 	},
 	{
-		"name": "Postage",
-		"city": "Albany, NY",
-		"bandcampURL": "https://postagepunk.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/postagepunks/",
-		"instagramURL": "https://www.instagram.com/postagepunk"
+		"name": "PEOPLEVIOLENCE",
+		"city": "Toronto, ON",
+		"websiteURL": "https://peopleviolence.com",
+		"facebookURL": "https://www.facebook.com/peopleviolence",
+		"instagramURL": "https://www.instagram.com/peopleviolence",
+		"bandcampURL": null
 	},
 	{
-		"name": "Pro Wrestling The Band",
-		"city": "London, ON",
-		"bandcampURL": "https://ripperdogsrecords.bandcamp.com/album/pro-wrestling-the-band-5-of-my-kind",
-		"facebookURL": "https://www.facebook.com/Prowrestlingtheband/",
-		"instagramURL": "https://www.instagram.com/prowrestlingtheband/"
+		"name": "Pink Leather Jackets",
+		"city": "Toronto, ON",
+		"websiteURL": "https://pinkleatherjackets.com",
+		"facebookURL": "https://www.facebook.com/PinkLeatherJackets",
+		"instagramURL": "https://www.instagram.com/pinkleatherjackets/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Quit It!",
-		"city": "Calgary, AB",
-		"bandcampURL": "https://quitit.bandcamp.com/album/spilling-out",
-		"facebookURL": "https://www.facebook.com/quit.it.music",
-		"instagramURL": "https://instagram.com/quit.it.music"
+		"name": "PONY",
+		"city": "Toronto, ON",
+		"websiteURL": "https://ponyband.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/ponyband",
+		"instagramURL": "https://www.instagram.com/ponytheband/",
+		"bandcampURL": "https://ponyband.bandcamp.com/"
 	},
 	{
-		"name": "Radio Compass",
-		"city": "Salem, MA",
-		"bandcampURL": "https://radiocompass.bandcamp.com/track/run-with-you-explicit",
-		"facebookURL": "https://www.facebook.com/RadioCompassMusic/",
-		"twitterURL": "https://twitter.com/Radio_Compass",
-		"instagramURL": "https://www.instagram.com/radiocompass/"
+		"name": "Princesse ALXLA",
+		"city": "St-Hyacinthe, QC",
+		"websiteURL": "https://linktr.ee/PrincesseALXLA",
+		"facebookURL": "https://www.facebook.com/p/Princesse-ALXLA-100032786961802/",
+		"instagramURL": "https://www.instagram.com/princesse_alxla/",
+		"bandcampURL": null
 	},
 	{
-		"name": "Radiology",
-		"city": "Rouyn, QC",
-		"facebookURL": "https://www.facebook.com/Radiologyrnhc"
+		"name": "Rad Owl",
+		"city": "Minneapolis, MN",
+		"websiteURL": "https://radowl.bandcamp.com/music",
+		"facebookURL": "https://www.facebook.com/radowlband",
+		"instagramURL": "https://www.instagram.com/radowlband",
+		"bandcampURL": "https://radowl.bandcamp.com/music"
 	},
 	{
-		"name": "Reclawed",
+		"name": "Rodeo Boys",
+		"city": "Lansing, MI",
+		"websiteURL": "https://www.rodeoboysofficial.com/",
+		"facebookURL": "https://www.facebook.com/rodeoboysband",
+		"instagramURL": "https://www.instagram.com/rodeoboysofficial/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Ruby Slipper",
+		"city": "Montréal, QC",
+		"websiteURL": "https://rubyslippermtl.bandcamp.com/album/ep-caterpillar",
+		"facebookURL": "https://www.facebook.com/rubyslippermtl/",
+		"instagramURL": "https://www.instagram.com/rubyslippermtl/",
+		"bandcampURL": "https://rubyslippermtl.bandcamp.com/album/ep-caterpillar"
+	},
+	{
+		"name": "Rust Ring",
+		"city": "Chicago, IL",
+		"websiteURL": "https://rustring.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/rustringband",
+		"instagramURL": "https://www.instagram.com/rust_ring/",
+		"bandcampURL": "https://rustring.bandcamp.com/"
+	},
+	{
+		"name": "Sadlands",
 		"city": "Brooklyn, NY",
-		"bandcampURL": "https://reclawed.bandcamp.com/album/dont-me",
-		"facebookURL": "https://www.facebook.com/Reclawed",
-		"instagramURL": "https://www.instagram.com/reclawedx/"
+		"websiteURL": "https://sadlands.bandcamp.com/album/sadlands",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/sadlands_band?igsh=ZWY2d24wMXVldHRn",
+		"bandcampURL": "https://sadlands.bandcamp.com/album/sadlands"
 	},
 	{
-		"name": "Record Thieves",
-		"city": "Denver, CO",
-		"bandcampURL": "https://recordthieves.bandcamp.com/album/wasting-time",
-		"facebookURL": "https://www.facebook.com/recordthieves",
-		"instagramURL": "https://www.instagram.com/recordthieves/"
+		"name": "Sam Russo",
+		"city": "Haverhill, UK",
+		"websiteURL": "https://samrusso.bandcamp.com/album/mistletoe-pier",
+		"facebookURL": "https://www.facebook.com/SamRusso113/",
+		"instagramURL": "https://www.instagram.com/samrussomusic",
+		"bandcampURL": "https://samrusso.bandcamp.com/album/mistletoe-pier"
 	},
 	{
-		"name": "Rope Skills",
+		"name": "Screaming at Traffic",
+		"city": "Winnipeg, MB",
+		"websiteURL": "https://screamingattrafficmusic.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/screamingattrafficmusic",
+		"instagramURL": "https://www.instagram.com/screamingattrafficmusic",
+		"bandcampURL": "https://screamingattrafficmusic.bandcamp.com"
+	},
+	{
+		"name": "Shift-D",
+		"city": "Burlington, ON",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "Shit Present",
+		"city": "Exeter, UK",
+		"websiteURL": "https://shitpresent.com/",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/shitpresent/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Skunch",
+		"city": "Lexington, KY",
+		"websiteURL": "https://www.skun.ch",
+		"facebookURL": "https://www.facebook.com/skunch/",
+		"instagramURL": "https://www.instagram.com/we.are.skunch/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Steve & Ginie Jackson",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://ropeskills.bandcamp.com/album/discharge",
-		"facebookURL": "https://www.facebook.com/ropeskillsband/",
-		"instagramURL": "https://www.instagram.com/ropeskillsband"
+		"websiteURL": "https://thousandislandsrecords.bandcamp.com/album/colder-than-the-sea",
+		"facebookURL": "https://www.facebook.com/stevenginie/",
+		"instagramURL": "https://www.instagram.com/steveandginie.jackson/",
+		"bandcampURL": "https://thousandislandsrecords.bandcamp.com/album/colder-than-the-sea"
 	},
 	{
-		"name": "Russian Tim and Pavel Bures",
-		"city": "Vancouver, BC",
-		"bandcampURL": "https://russiantimandpavelbures.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/russiantimandpavelbures",
-		"instagramURL": "https://www.instagram.com/russiantimandpavelbures"
+		"name": "Still Alive",
+		"city": "Chicago, IL",
+		"websiteURL": "https://stillalivechicago.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/stillalivechicago",
+		"instagramURL": "https://www.instagram.com/stillalivechi",
+		"bandcampURL": "https://stillalivechicago.bandcamp.com"
 	},
 	{
-		"name": "SCARE",
+		"name": "Still Insane",
 		"city": "Québec, QC",
-		"bandcampURL": "https://scareqc.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/scareqc/",
-		"instagramURL": "https://www.instagram.com/scaremusic/"
+		"websiteURL": "https://thousandislandsrecords.bandcamp.com/album/black-sheep",
+		"facebookURL": "https://www.facebook.com/StillInsanePunkRock/",
+		"instagramURL": "https://www.instagram.com/stillinsane/",
+		"bandcampURL": "https://thousandislandsrecords.bandcamp.com/album/black-sheep"
 	},
 	{
-		"name": "School Damage",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://schooldamage.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/schooldamage/",
-		"twitterURL": "https://twitter.com/schooldamage/",
-		"instagramURL": "https://www.instagram.com/schooldamage",
-		"youtubeURL": "//www.youtube.com/watch?v=uaNdFmTsG1M"
+		"name": "Stop the Presses",
+		"city": "Brooklyn, NY",
+		"websiteURL": "https://stopthepressesmusic.com",
+		"facebookURL": "https://www.facebook.com/stopthepressesmusic",
+		"instagramURL": "https://www.instagram.com/stopthepressesmusic",
+		"bandcampURL": null
 	},
 	{
-		"name": "Seed Toss",
+		"name": "Sun Junkies",
+		"city": "Brantford, ON",
+		"websiteURL": "https://sunjunkies.bandcamp.com/album/parachuting",
+		"facebookURL": "https://www.facebook.com/SunJunkiesBand",
+		"instagramURL": "https://www.instagram.com/sun_junkies?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
+		"bandcampURL": "https://sunjunkies.bandcamp.com/album/parachuting"
+	},
+	{
+		"name": "Sunday At The Ward",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://seedtossmtl.bandcamp.com/album/love-business",
-		"facebookURL": "https://www.facebook.com/seedtossmtl",
-		"instagramURL": "https://www.instagram.com/seed.toss/"
+		"websiteURL": "https://sundayattheward.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/satwband",
+		"instagramURL": "https://www.instagram.com/satwband",
+		"bandcampURL": "https://sundayattheward.bandcamp.com/"
 	},
 	{
-		"name": "Sixteen Scandals",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://sixteenscandals.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/sixteenscandals/",
-		"instagramURL": "https://www.instagram.com/sixteenscandals/"
+		"name": "Sunliner",
+		"city": "Leeds, UK",
+		"websiteURL": "https://www.sunlinerband.co.uk/",
+		"facebookURL": "https://www.facebook.com/sunlinerband",
+		"instagramURL": "https://www.instagram.com/sunlinerband",
+		"bandcampURL": null
 	},
 	{
-		"name": "Stuck Out Here",
-		"city": "Toronto, ON",
-		"bandcampURL": "https://stuckouthere.bandcamp.com/music",
-		"facebookURL": "https://www.facebook.com/stuckouthere",
-		"twitterURL": "https://twitter.com/stuck_out_here",
-		"instagramURL": "https://www.instagram.com/stuck_out_here/",
-		"youtubeURL": "//www.youtube.com/watch?v=Cdy8_KXmzgE"
+		"name": "Tess & The Details",
+		"city": "San Francisco, CA",
+		"websiteURL": "https://tessandthedetails.com",
+		"facebookURL": "https://facebook.com/tessandthedetails",
+		"instagramURL": "https://instagram.com/tessandthedetails",
+		"bandcampURL": null
 	},
 	{
-		"name": "Subsun",
-		"city": "Ottawa, ON",
-		"bandcampURL": "https://subsunrock.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/Subsunrock/",
-		"instagramURL": "https://www.instagram.com/subsunrock/"
+		"name": "The Abruptors",
+		"city": "Buffalo, NY",
+		"websiteURL": "https://theabruptors.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/theabruptors",
+		"instagramURL": "https://www.instagram.com/theabruptors/",
+		"bandcampURL": "https://theabruptors.bandcamp.com/"
 	},
 	{
-		"name": "Sweet Anne Marie",
-		"city": "Philadelphia, PA",
-		"bandcampURL": "https://www.sweetannemarie.bandcamp.com",
-		"facebookURL": "https://www.facebook.com/sweetannemariemusic",
-		"instagramURL": "https://instagram.com/sweetannemariemusic"
-	},
-	{
-		"name": "Taxi Girls",
-		"city": "Montréal, QC",
-		"facebookURL": "https://www.facebook.com/taxigirlsband",
-		"instagramURL": "https://www.instagram.com/taxigirlsmontreal/"
-	},
-	{
-		"name": "The Amorphous Blob Orchestra",
-		"city": "Trenton, NJ",
-		"bandcampURL": "https://theamorphousbloborchestra.bandcamp.com/",
-		"facebookURL": "https://facebook.com/100069122350155/",
-		"instagramURL": "https://www.instagram.com/theamorphousbloborchestra/"
-	},
-	{
-		"name": "The Band Cope",
-		"city": "San Diego, CA",
-		"instagramURL": "https://www.instagram.com/thebandcope/"
-	},
-	{
-		"name": "The Bloodstrings",
-		"city": "Aachen, DE",
-		"bandcampURL": "https://thebloodstringspunk.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/thebloodstrings",
-		"instagramURL": "https://www.instagram.com/thebloodstrings/"
-	},
-	{
-		"name": "The Carousers",
-		"city": "Long Branch, NJ",
-		"bandcampURL": "https://thecarousersnj.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/thecarousersnj",
-		"instagramURL": "https://www.instagram.com/thecarousersnj/"
+		"name": "The Big Easy",
+		"city": "New York, NY",
+		"websiteURL": "https://thebigeasy.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/thebigeasybk",
+		"instagramURL": "https://www.instagram.com/thebigeasyband",
+		"bandcampURL": "https://thebigeasy.bandcamp.com"
 	},
 	{
 		"name": "The Corps",
 		"city": "Vancouver, BC",
-		"bandcampURL": "https://thecorps.bandcamp.com/music",
+		"websiteURL": "https://thecorps.bandcamp.com/music",
 		"facebookURL": "https://www.facebook.com/thecorps2814/",
-		"twitterURL": "https://twitter.com/thecorps2814",
 		"instagramURL": "https://www.instagram.com/thecorps2814/",
-		"youtubeURL": "//www.youtube.com/watch?v=LXr-l-pbyR8"
+		"bandcampURL": "https://thecorps.bandcamp.com/music"
 	},
 	{
-		"name": "The Devil&#8217;s Sons",
-		"city": "Edmonton, AB",
-		"bandcampURL": "https://thedevilssons.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/thedevilssons666",
-		"instagramURL": "https://www.instagram.com/thedevilssons/"
+		"name": "The Fly Downs",
+		"city": "Ottawa, ON",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
 	},
 	{
-		"name": "The Dreaded Laramie",
-		"city": "Nashville, TN",
-		"bandcampURL": "https://thedreadedlaramie.bandcamp.com/",
-		"facebookURL": "https://facebook.com/100063439135538/",
-		"instagramURL": "https://www.instagram.com/thedreadedlaramieband/"
+		"name": "The Ghostwrite",
+		"city": "Pittsburgh, PA",
+		"websiteURL": "https://theghostwrite.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/theghostwritemusic",
+		"instagramURL": null,
+		"bandcampURL": "https://theghostwrite.bandcamp.com/"
 	},
 	{
-		"name": "The Fake Friends",
+		"name": "The Hybrids",
+		"city": "Toronto, ON",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": null
+	},
+	{
+		"name": "The Jukebox Romantics",
+		"city": "Orange & Westchester County, NY",
+		"websiteURL": "https://thejukeboxromantics.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/TheJukeboxRomantics/",
+		"instagramURL": "https://www.instagram.com/jukeboxromantics/",
+		"bandcampURL": "https://thejukeboxromantics.bandcamp.com/"
+	},
+	{
+		"name": "The Lookout",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://thefakefriends.bandcamp.com/",
-		"instagramURL": "https://www.instagram.com/thefakefriendssuck"
+		"websiteURL": "https://thelookout.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/thelookoutmtl",
+		"instagramURL": "https://www.instagram.com/the_lookout_mtl/",
+		"bandcampURL": "https://thelookout.bandcamp.com/"
 	},
 	{
-		"name": "The Last Mile",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://thelastmile.bandcamp.com/album/respect-the-frequency",
-		"facebookURL": "https://www.facebook.com/thelastmilehc/",
-		"instagramURL": "https://www.instagram.com/tlm_pma/"
-	},
-	{
-		"name": "The Loneliers",
-		"city": "New York, NY",
-		"bandcampURL": "https://theloneliers.bandcamp.com/music",
-		"facebookURL": "https://www.facebook.com/theloneliers",
-		"instagramURL": "http://instagram.com/theloneliers"
-	},
-	{
-		"name": "The Mendozaz",
-		"city": "Toronto, ON"
-	},
-	{
-		"name": "The More Or Less Whoever",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://themoreorlesswhoever.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/themoreorlesswhoever",
-		"instagramURL": "https://www.instagram.com/themoreorlesswhoever/"
-	},
-	{
-		"name": "The Peelers",
-		"city": "Montréal, QC",
-		"bandcampURL": "https://the-peelers.bandcamp.com/album/down-out-in-the-city-of-saints",
-		"facebookURL": "https://www.facebook.com/ThePeelersFC",
-		"twitterURL": "https://twitter.com/ThePeelers",
-		"instagramURL": "https://www.instagram.com/the_peelers",
-		"youtubeURL": "//www.youtube.com/watch?v=mksnmsiDNjs"
-	},
-	{
-		"name": "The Raging Nathans",
-		"city": "Dayton, OH",
-		"bandcampURL": "https://theragingnathans.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/TheRagingNathans/",
-		"instagramURL": "https://www.instagram.com/theragingnathans",
-		"youtubeURL": "//www.youtube.com/watch?v=M4WEWVasqrY"
-	},
-	{
-		"name": "The Slow Death",
-		"city": "Minneapolis, MN",
-		"bandcampURL": "https://radgirlfriendrecords.bandcamp.com/album/the-slow-death-no-heaven",
-		"facebookURL": "https://www.facebook.com/TheslowdeathMPLS"
+		"name": "The Punk Cellist",
+		"city": "New Bedford, MA",
+		"websiteURL": "https://linktree.com/thepunkcellist",
+		"facebookURL": "https://www.facebook.com/thepunkcellist",
+		"instagramURL": "https://www.instagram.com/thepunkcellist",
+		"bandcampURL": null
 	},
 	{
 		"name": "The Speakeasy",
 		"city": "Blainville, QC",
-		"bandcampURL": "https://thespeakeasyrock.bandcamp.com/",
+		"websiteURL": "https://thespeakeasyrock.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/TheSpeakeasyRock",
-		"instagramURL": "https://www.instagram.com/thespeakeasyrock/"
+		"instagramURL": "https://www.instagram.com/thespeakeasyrock/",
+		"bandcampURL": "https://thespeakeasyrock.bandcamp.com/"
 	},
 	{
-		"name": "The Young Rochelles",
-		"city": "New York, NY",
-		"bandcampURL": "https://theyoungrochelles.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/TheYoungRochelles/",
-		"instagramURL": "https://www.instagram.com/theyoungrochelles"
+		"name": "The Write Ups",
+		"city": "Flint, MI",
+		"websiteURL": "http://www.thewriteups.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/thewriteupsband",
+		"instagramURL": "https://www.instagram.com/thewriteupsband",
+		"bandcampURL": "http://www.thewriteups.bandcamp.com/"
 	},
 	{
-		"name": "TheWorst",
-		"city": "Portland, ME",
-		"bandcampURL": "https://theworst207.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/theworstpunk/",
-		"instagramURL": "http://Instagram.com/theworstband"
+		"name": "Thick Glasses",
+		"city": "Montreal, QC",
+		"websiteURL": "https://thickglassespunk.bandcamp.com",
+		"facebookURL": "https://www.facebook.com/thickglassespunk",
+		"instagramURL": "https://www.instagram.com/thickglassespunk",
+		"bandcampURL": "https://thickglassespunk.bandcamp.com"
 	},
 	{
-		"name": "Thunder Queens",
-		"city": "London, ON",
-		"bandcampURL": "https://yeahrightrecords.bandcamp.com/album/thunder-queens-e-p",
-		"facebookURL": "https://www.facebook.com/thunderqueensband/",
-		"instagramURL": "https://www.instagram.com/thunderqueensband"
+		"name": "Tim Holehouse",
+		"city": "London, UK",
+		"websiteURL": "https://Timholehouse.com",
+		"facebookURL": "https://www.facebook.com/TimHolehouseMusic/",
+		"instagramURL": "https://www.instagram.com/timholehouse",
+		"bandcampURL": null
 	},
 	{
-		"name": "Twenty2",
+		"name": "Tiny Stills",
+		"city": "Los Angeles, CA",
+		"websiteURL": "https://www.tinystills.com",
+		"facebookURL": "https://www.facebook.com/tinystills",
+		"instagramURL": "https://www.instagram.com/tinystills",
+		"bandcampURL": null
+	},
+	{
+		"name": "Tired Radio",
+		"city": "Brooklyn, NY",
+		"websiteURL": "https://www.tiredradio.com/",
+		"facebookURL": "https://www.facebook.com/tiredradiomusic",
+		"instagramURL": "https://www.instagram.com/tired_radio/",
+		"bandcampURL": null
+	},
+	{
+		"name": "Total Waste",
 		"city": "Montréal, QC",
-		"bandcampURL": "https://twenty2intl.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/Twenty2PunkRock",
-		"instagramURL": "https://www.instagram.com/twenty2.band/"
+		"websiteURL": "https://totalwastemtl.bandcamp.com",
+		"facebookURL": "https://m.facebook.com/profile.php/?id=100076284457971",
+		"instagramURL": "https://www.instagram.com/totalwaste.mtl",
+		"bandcampURL": "https://totalwastemtl.bandcamp.com"
 	},
 	{
-		"name": "We Hate You Please Die",
-		"city": "Rouen, FR",
-		"bandcampURL": "https://wehateyoupleasedie.bandcamp.com/",
-		"facebookURL": "https://www.facebook.com/whypd",
-		"instagramURL": "https://www.instagram.com/wehateyoupleasedie__/"
+		"name": "Varlope",
+		"city": "Québec, QC",
+		"websiteURL": "https://varlope.bandcamp.com/album/le-p-ril-woke",
+		"facebookURL": "https://www.facebook.com/varlopage",
+		"instagramURL": "https://www.instagram.com/varlope/",
+		"bandcampURL": "https://varlope.bandcamp.com/album/le-p-ril-woke"
 	},
 	{
-		"name": "Wolfrik",
-		"city": "Edmonton, AB",
-		"bandcampURL": "https://wolfrikband.bandcamp.com/album/skeleton-city",
-		"facebookURL": "https://www.facebook.com/wolfrikedmonton/",
-		"instagramURL": "https://www.instagram.com/wolfrik_band/"
+		"name": "Virginity",
+		"city": "Daytona Beach, FL",
+		"websiteURL": "https://www.virginityisrad.com",
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/virginityisrad",
+		"bandcampURL": null
 	},
 	{
-		"name": "Wordplay",
+		"name": "Volcano Bloom",
+		"city": "Montréal, QC",
+		"websiteURL": "https://volcanobloom.bandcamp.com/",
+		"facebookURL": null,
+		"instagramURL": null,
+		"bandcampURL": "https://volcanobloom.bandcamp.com/"
+	},
+	{
+		"name": "WAG",
+		"city": "Québec, QC",
+		"websiteURL": "https://wagmp3.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/wagmp3",
+		"instagramURL": "https://www.instagram.com/wag.mp3?igsh=cjRvcm5vODgxb3Fl&utm_source=qr",
+		"bandcampURL": "https://wagmp3.bandcamp.com/"
+	},
+	{
+		"name": "Whoredrobe",
+		"city": "Montréal, QC",
+		"websiteURL": null,
+		"facebookURL": null,
+		"instagramURL": "https://www.instagram.com/whoredrobeband",
+		"bandcampURL": null
+	},
+	{
+		"name": "Wise Guise",
 		"city": "Toronto, ON",
-		"bandcampURL": "https://w-rdplay.bandcamp.com/",
-		"facebookURL": "http://www.facebook.com/w.rdplaymusic",
-		"instagramURL": "http://instagram.com/wordplay_music",
-		"youtubeURL": "//www.youtube.com/watch?v=DjOShuB5_Ww"
+		"websiteURL": "https://wiseguiseband.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/wiseguiseband",
+		"instagramURL": "https://www.instagram.com/wiseguiseband/",
+		"bandcampURL": "https://wiseguiseband.bandcamp.com/"
 	},
 	{
-		"name": "Zach Quinn",
-		"city": "New Orleans, LA",
-		"facebookURL": "https://www.facebook.com/ZachQuinnOfficial/",
-		"instagramURL": "https://www.instagram.com/zachquinnstagram"
+		"name": "Wolves&Wolves&Wolves&Wolves",
+		"city": "Winston Salem, NC",
+		"websiteURL": "https://www.wolvesx4.com",
+		"facebookURL": "https://www.facebook.com/wolvesx4",
+		"instagramURL": "https://www.instagram.com/wolvesx4",
+		"bandcampURL": null
+	},
+	{
+		"name": "You Vandal",
+		"city": "Gainesville, FL",
+		"websiteURL": "https://youvandal.bandcamp.com/",
+		"facebookURL": "https://www.facebook.com/youvandalfl/",
+		"instagramURL": "https://www.instagram.com/youvandalfl/",
+		"bandcampURL": "https://youvandal.bandcamp.com/"
 	}
 ]
