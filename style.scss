@@ -1,5 +1,6 @@
 $pronouced-colour: white;
 $link-colour: #ffe600;
+$focused-colour: #69a5ff;
 
 body {
 	font-size: 125%;
@@ -106,7 +107,7 @@ h1 {
 	}
 
 	a {
-		color: $link-colour;
+		color: $focused-colour;
 		text-decoration: none;
 		border-bottom: solid 1px;
 		margin-left: 15px;
@@ -114,7 +115,7 @@ h1 {
 		&:hover,
 		&:focus {
 			border: none;
-			color: #69a5ff;
+			color: $link-colour;
 		}
 	}
 }

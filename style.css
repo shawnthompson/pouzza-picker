@@ -91,12 +91,12 @@ h1 {
   padding-top: 10px;
 }
 .contribute a {
-  color: #ffe600;
+  color: #69a5ff;
   text-decoration: none;
   border-bottom: solid 1px;
   margin-left: 15px;
 }
 .contribute a:hover, .contribute a:focus {
   border: none;
-  color: #69a5ff;
+  color: #ffe600;
 }/*# sourceMappingURL=style.css.map */
