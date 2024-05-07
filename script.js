@@ -31,6 +31,23 @@ function showMyBand(myBand) {
         ${myBand.instagramURL ? `<li><a href="${myBand.instagramURL}"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>` : ''}
         ${myBand.bandcampURL ? `<li><a href="${myBand.bandcampURL}"><i class="fab fa-bandcamp" aria-hidden="true"></i></a></li>` : ''}
     `;
+
+	const spotifyButton = document.querySelector('.container-fluid.m-4 .row .col a[href="spotifyURL"]');
+	const appleButton = document.querySelector('.container-fluid.m-4 .row .col a[href="appleURL"]');
+
+	if (myBand.spotifyURL) {
+		spotifyButton.href = myBand.spotifyURL;
+		spotifyButton.parentElement.style.display = "block";
+	} else {
+		spotifyButton.parentElement.style.display = "none";
+	}
+
+	if (myBand.appleMusicURL) {
+		appleButton.href = myBand.appleMusicURL;
+		appleButton.parentElement.style.display = "block";
+	} else {
+		appleButton.parentElement.style.display = "none";
+	}
 }
 
 function appendData(data) {
