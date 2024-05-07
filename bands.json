@@ -5,7 +5,9 @@
 		"websiteURL": "https://www.wavves.net/",
 		"facebookURL": "https://www.facebook.com/Wavves",
 		"instagramURL": "https://www.instagram.com/wavves",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Strike Anywhere",
@@ -13,7 +15,9 @@
 		"websiteURL": "https://www.strikeanywhere.org/",
 		"facebookURL": "https://www.facebook.com/StrikeAnywhereOfficial",
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Laura Jane Grace",
@@ -21,7 +25,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/LauraJaneGrace",
 		"instagramURL": "https://www.instagram.com/laurajanegrace",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Alex Lahey",
@@ -29,7 +35,9 @@
 		"websiteURL": "https://alexlahey.com.au/",
 		"facebookURL": "https://www.facebook.com/alexlaheymusic",
 		"instagramURL": "https://www.instagram.com/alex_lahey",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Against All Authority",
@@ -37,7 +45,9 @@
 		"websiteURL": "https://linktr.ee/againstallauthority",
 		"facebookURL": "https://www.facebook.com/againstallauthorityofficial",
 		"instagramURL": "https://www.instagram.com/againstallauthorityofficial",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Roller Starter",
@@ -45,7 +55,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/RollerStarterMTL/",
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Diesel Boy",
@@ -53,7 +65,9 @@
 		"websiteURL": "https://www.diesel-boy.com/",
 		"facebookURL": "https://www.facebook.com/Diesel.Boy.fb",
 		"instagramURL": "https://www.instagram.com/_dieselboy/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Direct Hit!",
@@ -61,7 +75,9 @@
 		"websiteURL": "http://directhitsucks.com/",
 		"facebookURL": "https://www.facebook.com/directhitband",
 		"instagramURL": "https://www.instagram.com/directhitband/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Rozwell Kid",
@@ -69,7 +85,9 @@
 		"websiteURL": "https://rozwellkid.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/RozwellKid",
 		"instagramURL": "https://www.instagram.com/rozwellkid/",
-		"bandcampURL": "https://rozwellkid.bandcamp.com/"
+		"bandcampURL": "https://rozwellkid.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Ways Away",
@@ -77,7 +95,9 @@
 		"websiteURL": "https://waysaway.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/waysawayband",
 		"instagramURL": "https://www.instagram.com/waysawayband/",
-		"bandcampURL": "https://waysaway.bandcamp.com/"
+		"bandcampURL": "https://waysaway.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Ergs",
@@ -85,7 +105,9 @@
 		"websiteURL": "https://theergs.bandcamp.com/",
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": "https://theergs.bandcamp.com/"
+		"bandcampURL": "https://theergs.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Catbite",
@@ -93,7 +115,9 @@
 		"websiteURL": "https://Catbite.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/catbiteband",
 		"instagramURL": "https://www.instagram.com/catbiteband/",
-		"bandcampURL": "https://Catbite.bandcamp.com"
+		"bandcampURL": "https://Catbite.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Kiwi Jr.",
@@ -101,7 +125,9 @@
 		"websiteURL": "https://www.kiwijr.com/",
 		"facebookURL": "https://www.facebook.com/kiwijrgroup/",
 		"instagramURL": "https://www.instagram.com/kiwijr/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "JER",
@@ -109,7 +135,9 @@
 		"websiteURL": "https://jerska.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/Skatunenetwork",
 		"instagramURL": "https://www.instagram.com/jer.band",
-		"bandcampURL": "https://jerska.bandcamp.com"
+		"bandcampURL": "https://jerska.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "This Is Hell",
@@ -117,7 +145,9 @@
 		"websiteURL": "https://thisishell.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/thisishellny",
 		"instagramURL": "https://www.instagram.com/thisishellny",
-		"bandcampURL": "https://thisishell.bandcamp.com/"
+		"bandcampURL": "https://thisishell.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "MakeWar",
@@ -125,7 +155,9 @@
 		"websiteURL": "http://www.makewarband.com",
 		"facebookURL": "https://www.facebook.com/MakeWarNYC",
 		"instagramURL": "https://www.instagram.com/makewarmusic/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Pete Bernhard",
@@ -133,7 +165,9 @@
 		"websiteURL": "https://www.petebernhard.com/",
 		"facebookURL": "https://www.facebook.com/people/Pete-Bernhard-of-The-Devil-Makes-Three/100063009769724/",
 		"instagramURL": "https://www.instagram.com/petebernhard/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Kali Masi",
@@ -141,7 +175,9 @@
 		"websiteURL": "https://kalimasi.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/KaliMasiBand/",
 		"instagramURL": "https://www.instagram.com/kalimasiband/",
-		"bandcampURL": "https://kalimasi.bandcamp.com/"
+		"bandcampURL": "https://kalimasi.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Crazy & The Brains",
@@ -149,7 +185,9 @@
 		"websiteURL": "https://crazyandthebrains.net/",
 		"facebookURL": "https://www.facebook.com/crazyandthebrains/",
 		"instagramURL": "https://www.instagram.com/crazyandthebrains/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Les Dorothée",
@@ -157,7 +195,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/lesdorothee",
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Anti-Queens",
@@ -165,7 +205,9 @@
 		"websiteURL": "https://antiqueens.com/",
 		"facebookURL": "https://www.facebook.com/TheAntiqueens",
 		"instagramURL": "https://www.instagram.com/theantiqueens",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Petite League",
@@ -173,7 +215,9 @@
 		"websiteURL": "https://petiteleague.com",
 		"facebookURL": "https://www.facebook.com/petiteleague",
 		"instagramURL": "https://www.instagram.com/petiteleague",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Penske File",
@@ -181,7 +225,9 @@
 		"websiteURL": "https://www.thepenskefile.net/",
 		"facebookURL": "https://www.facebook.com/thepenskefile",
 		"instagramURL": "https://www.instagram.com/the_penskefile/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Snodgrass + Buddies",
@@ -189,7 +235,9 @@
 		"websiteURL": "https://www.jonsnodgrass.com",
 		"facebookURL": "https://www.facebook.com/JonSnodgrassMusic",
 		"instagramURL": "https://www.instagram.com/jonsnodgrass/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Skating Polly",
@@ -197,7 +245,9 @@
 		"websiteURL": "http://www.skatingpolly.com/",
 		"facebookURL": "https://www.facebook.com/SkatingPolly/",
 		"instagramURL": "https://www.instagram.com/skatingpolly/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Iron Roses",
@@ -205,7 +255,9 @@
 		"websiteURL": "https://www.ironroses.band/",
 		"facebookURL": "https://www.facebook.com/TheIronRoses/",
 		"instagramURL": "https://www.instagram.com/theironroses/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Billy Liar",
@@ -213,7 +265,9 @@
 		"websiteURL": "https://www.billyliarmusic.com/",
 		"facebookURL": "https://www.facebook.com/official.billy.liar/",
 		"instagramURL": "https://www.instagram.com/officialbillyliar/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Peanut Butter Sunday",
@@ -221,7 +275,9 @@
 		"websiteURL": "https://linktr.ee/peanutbuttersundayessir",
 		"facebookURL": "https://www.facebook.com/peanutbuttersunday",
 		"instagramURL": "https://instagram.com/peanutbuttersundayessir",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Rebuilder",
@@ -229,7 +285,9 @@
 		"websiteURL": "https://rebuilderboston.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/RebuilderBoston",
 		"instagramURL": "https://www.instagram.com/rebuilderboston/",
-		"bandcampURL": "https://rebuilderboston.bandcamp.com"
+		"bandcampURL": "https://rebuilderboston.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Pigeon Pit",
@@ -237,7 +295,9 @@
 		"websiteURL": "https://pigeonpit.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/pigeonpit/",
 		"instagramURL": null,
-		"bandcampURL": "https://pigeonpit.bandcamp.com/"
+		"bandcampURL": "https://pigeonpit.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "A.S.K.",
@@ -245,7 +305,9 @@
 		"websiteURL": "https://ask-skapunk1996-1998.bandcamp.com/",
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": "https://ask-skapunk1996-1998.bandcamp.com/"
+		"bandcampURL": "https://ask-skapunk1996-1998.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "American Television",
@@ -253,7 +315,9 @@
 		"websiteURL": "https://amtv.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/americantelevision",
 		"instagramURL": "https://www.instagram.com/amtvband/",
-		"bandcampURL": "https://amtv.bandcamp.com"
+		"bandcampURL": "https://amtv.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Ancient Teeth",
@@ -261,7 +325,9 @@
 		"websiteURL": "https://ancientteethband.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/ancientteeth/",
 		"instagramURL": "https://www.instagram.com/ancientteeth/",
-		"bandcampURL": "https://ancientteethband.bandcamp.com/"
+		"bandcampURL": "https://ancientteethband.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Another Michael",
@@ -269,7 +335,9 @@
 		"websiteURL": "https://linktr.ee/AM_TOUR",
 		"facebookURL": "https://www.facebook.com/anothermichaelmusic/",
 		"instagramURL": "https://www.instagram.com/anothermichaelofficial/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Ask Ophelia",
@@ -277,7 +345,9 @@
 		"websiteURL": "https://askophelia.bandcamp.com/music",
 		"facebookURL": "https://www.facebook.com/Askophelia",
 		"instagramURL": "https://www.instagram.com/askophelia/",
-		"bandcampURL": "https://askophelia.bandcamp.com/music"
+		"bandcampURL": "https://askophelia.bandcamp.com/music",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Athlete",
@@ -285,7 +355,9 @@
 		"websiteURL": "https://linktr.ee/athlete_punkrock",
 		"facebookURL": "https://www.facebook.com/athletepunk",
 		"instagramURL": "https://www.instagram.com/athlete_punkrock",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Avem",
@@ -293,7 +365,9 @@
 		"websiteURL": "https://Avemtheband.com",
 		"facebookURL": "https://www.facebook.com/avem.theband",
 		"instagramURL": "https://www.instagram.com/avem.theband/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Bad Bad Bird",
@@ -301,7 +375,9 @@
 		"websiteURL": "https://badbadbird.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/badbadbirdmusique/",
 		"instagramURL": "https://www.instagram.com/badbadbirdmusique/",
-		"bandcampURL": "https://badbadbird.bandcamp.com"
+		"bandcampURL": "https://badbadbird.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Basement Dweller",
@@ -309,7 +385,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Birds of Prrrey",
@@ -317,7 +395,9 @@
 		"websiteURL": "https://linktr.ee/birdsofprrrey",
 		"facebookURL": "https://www.facebook.com/profile.php?id=100090924331155",
 		"instagramURL": "https://www.instagram.com/birdsofprrrey",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Black Guy Fawkes",
@@ -325,7 +405,9 @@
 		"websiteURL": "https://BlackGuyFawkesMusic.Bandcamp.Com",
 		"facebookURL": "https://www.facebook.com/blackguyfawkesmusic",
 		"instagramURL": "https://www.instagram.com/blackguyfawkes",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Blind Adam and the Federal League",
@@ -333,7 +415,9 @@
 		"websiteURL": "https://www.blindadamandthefederalleague.com/",
 		"facebookURL": "https://www.facebook.com/blindadammusic/",
 		"instagramURL": "https://www.instagram.com/Blindadamfederal/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "BOIDS",
@@ -341,7 +425,9 @@
 		"websiteURL": "https://boids.bandcamp.com/album/disassociation-ep",
 		"facebookURL": "https://www.facebook.com/boidsboidsboids",
 		"instagramURL": "https://www.instagram.com/boidsboidsboids",
-		"bandcampURL": "https://boids.bandcamp.com/album/disassociation-ep"
+		"bandcampURL": "https://boids.bandcamp.com/album/disassociation-ep",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Capable!",
@@ -349,7 +435,9 @@
 		"websiteURL": "https://capable.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/capableband/",
 		"instagramURL": "https://www.instagram.com/capable_band",
-		"bandcampURL": "https://capable.bandcamp.com"
+		"bandcampURL": "https://capable.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Chou",
@@ -357,7 +445,9 @@
 		"websiteURL": "https://lebandchou.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/lebandchou/",
 		"instagramURL": "https://www.instagram.com/lebandchou/",
-		"bandcampURL": "https://lebandchou.bandcamp.com"
+		"bandcampURL": "https://lebandchou.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Chuck Coles",
@@ -365,7 +455,9 @@
 		"websiteURL": "https://chuckcoles.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/chuck.coles.52",
 		"instagramURL": "https://www.instagram.com/c_h_u_c_k_c_o_l_e_s_/",
-		"bandcampURL": "https://chuckcoles.bandcamp.com/"
+		"bandcampURL": "https://chuckcoles.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Colin Moore",
@@ -373,7 +465,9 @@
 		"websiteURL": "https://colinmoore.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/colinmoorefanpage/",
 		"instagramURL": "https://www.instagram.com/colinmooremusic/",
-		"bandcampURL": "https://colinmoore.bandcamp.com/"
+		"bandcampURL": "https://colinmoore.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Conflit Majeur",
@@ -381,7 +475,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/Conflitmajeurband",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Counterpunch",
@@ -389,7 +485,9 @@
 		"websiteURL": "https://www.counterpunchrock.com/",
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Crachat",
@@ -397,7 +495,9 @@
 		"websiteURL": "https://Crachat.com",
 		"facebookURL": "https://www.facebook.com/crachatQC",
 		"instagramURL": "https://www.instagram.com/crachat.band",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Cross Dog",
@@ -405,7 +505,9 @@
 		"websiteURL": "https://crossdog.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/CrossDog/",
 		"instagramURL": "https://www.instagram.com/crossdog666",
-		"bandcampURL": "https://crossdog.bandcamp.com"
+		"bandcampURL": "https://crossdog.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Darko",
@@ -413,7 +515,9 @@
 		"websiteURL": "https://darko.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/Darkoband",
 		"instagramURL": "https://www.instagram.com/darko_band/",
-		"bandcampURL": "https://darko.bandcamp.com/"
+		"bandcampURL": "https://darko.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "David Dondero",
@@ -421,7 +525,9 @@
 		"websiteURL": "https://www.davedondero.com/",
 		"facebookURL": "https://www.facebook.com/daviddonderomusicofficial/",
 		"instagramURL": "https://www.instagram.com/dave_dondero/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Dead Alright",
@@ -429,7 +535,9 @@
 		"websiteURL": "https://linktr.ee/deadalright",
 		"facebookURL": "https://www.facebook.com/deadalright",
 		"instagramURL": "https://www.instagram.com/deadalrightpunk",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Deathnap",
@@ -437,7 +545,9 @@
 		"websiteURL": "https://withkoji.com/@deathnap",
 		"facebookURL": "https://www.facebook.com/deathnap",
 		"instagramURL": "https://www.instagram.com/deathnap514/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Decent Criminal",
@@ -445,7 +555,9 @@
 		"websiteURL": "https://decentcriminal.bandcamp.com",
 		"facebookURL": "https://m.facebook.com/DecentCriminal08/",
 		"instagramURL": "https://instagram.com/decentcriminal",
-		"bandcampURL": "https://decentcriminal.bandcamp.com"
+		"bandcampURL": "https://decentcriminal.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Deforesters",
@@ -453,7 +565,9 @@
 		"websiteURL": "https://deforesters.bandcamp.com/album/leonard",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/deforesters",
-		"bandcampURL": "https://deforesters.bandcamp.com/album/leonard"
+		"bandcampURL": "https://deforesters.bandcamp.com/album/leonard",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Desert Sharks",
@@ -461,7 +575,9 @@
 		"websiteURL": "https://desertsharks.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/desertsharks",
 		"instagramURL": "https://www.instagram.com/desertsharks",
-		"bandcampURL": "https://desertsharks.bandcamp.com"
+		"bandcampURL": "https://desertsharks.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Devon Kay & The Solutions",
@@ -469,7 +585,9 @@
 		"websiteURL": "https://www.devonkayandthe.solutions",
 		"facebookURL": "https://www.facebook.com/devonkayandthesolutions",
 		"instagramURL": "https://www.instagram.com/devonkayandthesolutions",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Dirty Cheetah",
@@ -477,7 +595,9 @@
 		"websiteURL": "https://dirtycheetah.bandcamp.com/album/never-too-late",
 		"facebookURL": "https://www.facebook.com/DirtyCheetah",
 		"instagramURL": "https://www.instagram.com/dirty_cheetah_band/",
-		"bandcampURL": "https://dirtycheetah.bandcamp.com/album/never-too-late"
+		"bandcampURL": "https://dirtycheetah.bandcamp.com/album/never-too-late",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Dirty FrenchKiss",
@@ -485,7 +605,9 @@
 		"websiteURL": "https://dirtyfrenchkiss.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/dirtyfrenchkiss/",
 		"instagramURL": "https://www.instagram.com/dirtyfrenchkiss_officiel/",
-		"bandcampURL": "https://dirtyfrenchkiss.bandcamp.com/"
+		"bandcampURL": "https://dirtyfrenchkiss.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Dollar Signs",
@@ -493,7 +615,9 @@
 		"websiteURL": "https://dollarsigns.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/dollarsignstheband/",
 		"instagramURL": "https://www.instagram.com/dollarsignstheband/",
-		"bandcampURL": "https://dollarsigns.bandcamp.com/"
+		"bandcampURL": "https://dollarsigns.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Dylan Lana",
@@ -501,7 +625,9 @@
 		"websiteURL": "https://dylanlana.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/eldylanlana",
 		"instagramURL": "https://www.instagram.com/eldylanlana",
-		"bandcampURL": "https://dylanlana.bandcamp.com/"
+		"bandcampURL": "https://dylanlana.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Early Flights",
@@ -509,7 +635,9 @@
 		"websiteURL": "https://earlyflights.bandcamp.com/",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/earlyflightsband/",
-		"bandcampURL": "https://earlyflights.bandcamp.com/"
+		"bandcampURL": "https://earlyflights.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "FAKEYOU",
@@ -517,7 +645,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/fakeuband/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Family Dinner",
@@ -525,7 +655,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/familydinnerusa",
 		"instagramURL": "instagram.com/familydinnerusa",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Felicity Hamer and Black Leather Rose",
@@ -533,7 +665,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Flycatcher",
@@ -541,7 +675,9 @@
 		"websiteURL": "https://Flycatchernj.bandcamp.com",
 		"facebookURL": "https://m.facebook.com/flycatchernj",
 		"instagramURL": "https://www.instagram.com/flycatcherband",
-		"bandcampURL": "https://Flycatchernj.bandcamp.com"
+		"bandcampURL": "https://Flycatchernj.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Frontrow",
@@ -549,7 +685,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/frontrowbandmtl",
 		"instagramURL": "https://www.instagram.com/frontrowofficiel/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Fuck Toute",
@@ -557,7 +695,9 @@
 		"websiteURL": "http://www.fucktoute.com",
 		"facebookURL": "https://www.facebook.com/phoquetoute/",
 		"instagramURL": "https://www.instagram.com/fucktouteband/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Georgia Maq",
@@ -565,7 +705,9 @@
 		"websiteURL": "https://georgiamaq.bandcamp.com",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/goldsoundz_/",
-		"bandcampURL": "https://georgiamaq.bandcamp.com"
+		"bandcampURL": "https://georgiamaq.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Gutser",
@@ -573,7 +715,9 @@
 		"websiteURL": "https://gutser.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/gutserdepmetal/",
 		"instagramURL": "https://www.instagram.com/gutser_tv",
-		"bandcampURL": "https://gutser.bandcamp.com/"
+		"bandcampURL": "https://gutser.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Handheld",
@@ -581,7 +725,9 @@
 		"websiteURL": "https://linktr.ee/handheldpunk",
 		"facebookURL": "https://www.facebook.com/handheldpunk/",
 		"instagramURL": "https://www.instagram.com/handheldpunk",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Heavy Lag",
@@ -589,7 +735,9 @@
 		"websiteURL": "https://linktr.ee/HEAVYLAG",
 		"facebookURL": "https://www.facebook.com/heavylag",
 		"instagramURL": "https://www.instagram.com/heavylag",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Hell Beach",
@@ -597,7 +745,9 @@
 		"websiteURL": "https://hellbeachband.bandcamp.com/album/hell-beach",
 		"facebookURL": "https://www.facebook.com/hellbeachpunk/",
 		"instagramURL": "https://www.instagram.com/hellbeachband/",
-		"bandcampURL": "https://hellbeachband.bandcamp.com/album/hell-beach"
+		"bandcampURL": "https://hellbeachband.bandcamp.com/album/hell-beach",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Her Head’s On Fire",
@@ -605,7 +755,9 @@
 		"websiteURL": "https://herheadsonfire.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/herheadsonfire/",
 		"instagramURL": "https://www.instagram.com/her_heads_on_fire/",
-		"bandcampURL": "https://herheadsonfire.bandcamp.com/"
+		"bandcampURL": "https://herheadsonfire.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Hipshot",
@@ -613,7 +765,9 @@
 		"websiteURL": "https://hipshot.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/hipshotrock",
 		"instagramURL": "https://www.instagram.com/hipshotrock/",
-		"bandcampURL": "https://hipshot.bandcamp.com"
+		"bandcampURL": "https://hipshot.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Hit Like A Girl",
@@ -621,7 +775,9 @@
 		"websiteURL": "https://hitlikeagirl.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/hitlikeagirlband/",
 		"instagramURL": null,
-		"bandcampURL": "https://hitlikeagirl.bandcamp.com"
+		"bandcampURL": "https://hitlikeagirl.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "In The Meantime",
@@ -629,7 +785,9 @@
 		"websiteURL": "https://gtownrecords.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/inthemeantimeboston",
 		"instagramURL": "https://www.instagram.com/itmeantime/",
-		"bandcampURL": "https://gtownrecords.bandcamp.com/"
+		"bandcampURL": "https://gtownrecords.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Intenable",
@@ -637,7 +795,9 @@
 		"websiteURL": "https://intenable.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/Intenable/",
 		"instagramURL": "https://www.instagram.com/intenablepunkrock",
-		"bandcampURL": "https://intenable.bandcamp.com/"
+		"bandcampURL": "https://intenable.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Jason Paul of the Know It Alls",
@@ -645,7 +805,9 @@
 		"websiteURL": "https://jpandtheknowitalls.com",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/jasonpaul_theknowitalls",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Jenny Woo",
@@ -653,7 +815,9 @@
 		"websiteURL": "https://www.facebook.com/jennywoooiproject?mibextid=ZbWKwL",
 		"facebookURL": "https://www.facebook.com/jennywoooiproject?mibextid=ZbWKwL",
 		"instagramURL": "https://www.instagram.com/jennywoooi",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Jo Bergeron",
@@ -661,7 +825,9 @@
 		"websiteURL": "https://jobergeron.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/jobergeronmusic/",
 		"instagramURL": null,
-		"bandcampURL": "https://jobergeron.bandcamp.com/"
+		"bandcampURL": "https://jobergeron.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Joey Affatato",
@@ -669,7 +835,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Josh & the Dirty Rags",
@@ -677,7 +845,9 @@
 		"websiteURL": "https://joshandthedirtyrags.com",
 		"facebookURL": "https://www.facebook.com/joshandthedirtyrags",
 		"instagramURL": "https://www.instagram.com/josh.and.the.dirty.rags/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Julius Sumner Miller",
@@ -685,7 +855,9 @@
 		"websiteURL": "https://juliussumnermiller.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/juliussumnermillerband/",
 		"instagramURL": "https://www.instagram.com/juliussumnermiller/",
-		"bandcampURL": "https://juliussumnermiller.bandcamp.com/"
+		"bandcampURL": "https://juliussumnermiller.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "K-Man & the 45s",
@@ -693,7 +865,9 @@
 		"websiteURL": "https://kmanthe45s.bandpage.com/",
 		"facebookURL": "https://www.facebook.com/kman45",
 		"instagramURL": "https://www.instagram.com/kmanandthe45s/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Kennedy",
@@ -701,7 +875,9 @@
 		"websiteURL": "http://theguiltypoor.com/",
 		"facebookURL": "https://www.facebook.com/kennedyhxc",
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Killing Daisies",
@@ -709,7 +885,9 @@
 		"websiteURL": "https://killing-daisies.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/KillingDaisies/",
 		"instagramURL": "https://www.instagram.com/killingdaisies/",
-		"bandcampURL": "https://killing-daisies.bandcamp.com/"
+		"bandcampURL": "https://killing-daisies.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Latewaves",
@@ -717,7 +895,9 @@
 		"websiteURL": "https://www.latewaves.com",
 		"facebookURL": "https://www.facebook.com/latewaves",
 		"instagramURL": "https://www.instagram.com/latewaves",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Le Plan Caneton",
@@ -725,7 +905,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/leplancaneton",
 		"instagramURL": "https://www.instagram.com/le_plan_caneton/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Like A Motorcycle",
@@ -733,7 +915,9 @@
 		"websiteURL": "https://likeamotorcycle.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/likeamotorcycle",
 		"instagramURL": "https://www.instagram.com/likeamotorcycle/",
-		"bandcampURL": "https://likeamotorcycle.bandcamp.com"
+		"bandcampURL": "https://likeamotorcycle.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Little Junior",
@@ -741,7 +925,9 @@
 		"websiteURL": "https://littlejunior.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/liljuniorband/",
 		"instagramURL": null,
-		"bandcampURL": "https://littlejunior.bandcamp.com/"
+		"bandcampURL": "https://littlejunior.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Lo(u)ser",
@@ -749,7 +935,9 @@
 		"websiteURL": "https://www.chrisgraue.com",
 		"facebookURL": "https://www.facebook.com/ChrisGraueTheLouser/",
 		"instagramURL": "https://www.instagram.com/chrisgraue/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Lord Friday the 13th",
@@ -757,7 +945,9 @@
 		"websiteURL": "https://www.lordfridaythe13th.com",
 		"facebookURL": "https://www.facebook.com/lordfridaythe13th/",
 		"instagramURL": "https://www.instagram.com/lordfridayland/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Matt Pless",
@@ -765,7 +955,9 @@
 		"websiteURL": "https://www.mattpless.com",
 		"facebookURL": "https://www.facebook.com/mattplessofficial",
 		"instagramURL": "https://www.instagram.com/mattplessmusic",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Métropole",
@@ -773,7 +965,9 @@
 		"websiteURL": "https://mtropole.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/MetropoleOfficiel",
 		"instagramURL": "https://www.instagram.com/metropole_band/",
-		"bandcampURL": "https://mtropole.bandcamp.com/"
+		"bandcampURL": "https://mtropole.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Middle-Aged Queers",
@@ -781,7 +975,9 @@
 		"websiteURL": "https://middleagedqueers.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/middleagedqueers",
 		"instagramURL": "https://www.instagram.com/middleagedqueers",
-		"bandcampURL": "https://middleagedqueers.bandcamp.com/"
+		"bandcampURL": "https://middleagedqueers.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Mike Natoli",
@@ -789,7 +985,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Mikey Erg",
@@ -797,7 +995,9 @@
 		"websiteURL": "https://mikeyerg.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/mikeyergmusic",
 		"instagramURL": "https://www.instagram.com/mikeyerg/",
-		"bandcampURL": "https://mikeyerg.bandcamp.com"
+		"bandcampURL": "https://mikeyerg.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "No Waves",
@@ -805,7 +1005,9 @@
 		"websiteURL": "https://nowavesmtl.bandcamp.com/ ",
 		"facebookURL": "https://www.facebook.com/Nowavesband  ",
 		"instagramURL": "https://www.instagram.com/fucknowaves/",
-		"bandcampURL": "https://nowavesmtl.bandcamp.com/ "
+		"bandcampURL": "https://nowavesmtl.bandcamp.com/ ",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Northwalk",
@@ -813,7 +1015,9 @@
 		"websiteURL": "https://linktr.ee/northwalkhc",
 		"facebookURL": "https://www.facebook.com/northwalkHC",
 		"instagramURL": "https://www.instagram.com/northwalk819/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Omnigone",
@@ -821,7 +1025,9 @@
 		"websiteURL": null,
 		"facebookURL": "https://www.facebook.com/0MNIG0NE",
 		"instagramURL": "https://www.instagram.com/0mnig0ne",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "One Last Threat",
@@ -829,7 +1035,9 @@
 		"websiteURL": "https://olthc.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/onelastthreat",
 		"instagramURL": "https://www.instagram.com/one_last_threat_hc/",
-		"bandcampURL": "https://olthc.bandcamp.com"
+		"bandcampURL": "https://olthc.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "ONETIMER",
@@ -837,7 +1045,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Outlier",
@@ -845,7 +1055,9 @@
 		"websiteURL": "https://www.youtube.com/@outliermtl",
 		"facebookURL": "https://www.facebook.com/profile.php?id=100095138775714",
 		"instagramURL": "https://www.instagram.com/outliermtl/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "PACE",
@@ -853,7 +1065,9 @@
 		"websiteURL": "https://pacebandmtl.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/pacebandmtl",
 		"instagramURL": "https://instagram.com/pacebandmtl/",
-		"bandcampURL": "https://pacebandmtl.bandcamp.com/"
+		"bandcampURL": "https://pacebandmtl.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Panic Attack",
@@ -861,7 +1075,9 @@
 		"websiteURL": "https://panicattack.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/crisedangoisse",
 		"instagramURL": "https://www.instagram.com/panicattackqc/",
-		"bandcampURL": "https://panicattack.bandcamp.com/"
+		"bandcampURL": "https://panicattack.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "PasMort",
@@ -869,7 +1085,9 @@
 		"websiteURL": "https://pasmort.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/pasmortband/",
 		"instagramURL": "https://www.instagram.com/pasmortpunk/",
-		"bandcampURL": "https://pasmort.bandcamp.com/"
+		"bandcampURL": "https://pasmort.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "PEOPLEVIOLENCE",
@@ -877,7 +1095,9 @@
 		"websiteURL": "https://peopleviolence.com",
 		"facebookURL": "https://www.facebook.com/peopleviolence",
 		"instagramURL": "https://www.instagram.com/peopleviolence",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Pink Leather Jackets",
@@ -885,7 +1105,9 @@
 		"websiteURL": "https://pinkleatherjackets.com",
 		"facebookURL": "https://www.facebook.com/PinkLeatherJackets",
 		"instagramURL": "https://www.instagram.com/pinkleatherjackets/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "PONY",
@@ -893,7 +1115,9 @@
 		"websiteURL": "https://ponyband.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/ponyband",
 		"instagramURL": "https://www.instagram.com/ponytheband/",
-		"bandcampURL": "https://ponyband.bandcamp.com/"
+		"bandcampURL": "https://ponyband.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Princesse ALXLA",
@@ -901,7 +1125,9 @@
 		"websiteURL": "https://linktr.ee/PrincesseALXLA",
 		"facebookURL": "https://www.facebook.com/p/Princesse-ALXLA-100032786961802/",
 		"instagramURL": "https://www.instagram.com/princesse_alxla/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Rad Owl",
@@ -909,7 +1135,9 @@
 		"websiteURL": "https://radowl.bandcamp.com/music",
 		"facebookURL": "https://www.facebook.com/radowlband",
 		"instagramURL": "https://www.instagram.com/radowlband",
-		"bandcampURL": "https://radowl.bandcamp.com/music"
+		"bandcampURL": "https://radowl.bandcamp.com/music",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Rodeo Boys",
@@ -917,7 +1145,9 @@
 		"websiteURL": "https://www.rodeoboysofficial.com/",
 		"facebookURL": "https://www.facebook.com/rodeoboysband",
 		"instagramURL": "https://www.instagram.com/rodeoboysofficial/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Ruby Slipper",
@@ -925,7 +1155,9 @@
 		"websiteURL": "https://rubyslippermtl.bandcamp.com/album/ep-caterpillar",
 		"facebookURL": "https://www.facebook.com/rubyslippermtl/",
 		"instagramURL": "https://www.instagram.com/rubyslippermtl/",
-		"bandcampURL": "https://rubyslippermtl.bandcamp.com/album/ep-caterpillar"
+		"bandcampURL": "https://rubyslippermtl.bandcamp.com/album/ep-caterpillar",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Rust Ring",
@@ -933,7 +1165,9 @@
 		"websiteURL": "https://rustring.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/rustringband",
 		"instagramURL": "https://www.instagram.com/rust_ring/",
-		"bandcampURL": "https://rustring.bandcamp.com/"
+		"bandcampURL": "https://rustring.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Sadlands",
@@ -941,7 +1175,9 @@
 		"websiteURL": "https://sadlands.bandcamp.com/album/sadlands",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/sadlands_band?igsh=ZWY2d24wMXVldHRn",
-		"bandcampURL": "https://sadlands.bandcamp.com/album/sadlands"
+		"bandcampURL": "https://sadlands.bandcamp.com/album/sadlands",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Sam Russo",
@@ -949,7 +1185,9 @@
 		"websiteURL": "https://samrusso.bandcamp.com/album/mistletoe-pier",
 		"facebookURL": "https://www.facebook.com/SamRusso113/",
 		"instagramURL": "https://www.instagram.com/samrussomusic",
-		"bandcampURL": "https://samrusso.bandcamp.com/album/mistletoe-pier"
+		"bandcampURL": "https://samrusso.bandcamp.com/album/mistletoe-pier",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Screaming at Traffic",
@@ -957,7 +1195,9 @@
 		"websiteURL": "https://screamingattrafficmusic.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/screamingattrafficmusic",
 		"instagramURL": "https://www.instagram.com/screamingattrafficmusic",
-		"bandcampURL": "https://screamingattrafficmusic.bandcamp.com"
+		"bandcampURL": "https://screamingattrafficmusic.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Shift-D",
@@ -965,7 +1205,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Shit Present",
@@ -973,7 +1215,9 @@
 		"websiteURL": "https://shitpresent.com/",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/shitpresent/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Skunch",
@@ -981,7 +1225,9 @@
 		"websiteURL": "https://www.skun.ch",
 		"facebookURL": "https://www.facebook.com/skunch/",
 		"instagramURL": "https://www.instagram.com/we.are.skunch/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Steve & Ginie Jackson",
@@ -989,7 +1235,9 @@
 		"websiteURL": "https://thousandislandsrecords.bandcamp.com/album/colder-than-the-sea",
 		"facebookURL": "https://www.facebook.com/stevenginie/",
 		"instagramURL": "https://www.instagram.com/steveandginie.jackson/",
-		"bandcampURL": "https://thousandislandsrecords.bandcamp.com/album/colder-than-the-sea"
+		"bandcampURL": "https://thousandislandsrecords.bandcamp.com/album/colder-than-the-sea",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Still Alive",
@@ -997,7 +1245,9 @@
 		"websiteURL": "https://stillalivechicago.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/stillalivechicago",
 		"instagramURL": "https://www.instagram.com/stillalivechi",
-		"bandcampURL": "https://stillalivechicago.bandcamp.com"
+		"bandcampURL": "https://stillalivechicago.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Still Insane",
@@ -1005,7 +1255,9 @@
 		"websiteURL": "https://thousandislandsrecords.bandcamp.com/album/black-sheep",
 		"facebookURL": "https://www.facebook.com/StillInsanePunkRock/",
 		"instagramURL": "https://www.instagram.com/stillinsane/",
-		"bandcampURL": "https://thousandislandsrecords.bandcamp.com/album/black-sheep"
+		"bandcampURL": "https://thousandislandsrecords.bandcamp.com/album/black-sheep",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Stop the Presses",
@@ -1013,7 +1265,9 @@
 		"websiteURL": "https://stopthepressesmusic.com",
 		"facebookURL": "https://www.facebook.com/stopthepressesmusic",
 		"instagramURL": "https://www.instagram.com/stopthepressesmusic",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Sun Junkies",
@@ -1021,7 +1275,9 @@
 		"websiteURL": "https://sunjunkies.bandcamp.com/album/parachuting",
 		"facebookURL": "https://www.facebook.com/SunJunkiesBand",
 		"instagramURL": "https://www.instagram.com/sun_junkies?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
-		"bandcampURL": "https://sunjunkies.bandcamp.com/album/parachuting"
+		"bandcampURL": "https://sunjunkies.bandcamp.com/album/parachuting",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Sunday At The Ward",
@@ -1029,7 +1285,9 @@
 		"websiteURL": "https://sundayattheward.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/satwband",
 		"instagramURL": "https://www.instagram.com/satwband",
-		"bandcampURL": "https://sundayattheward.bandcamp.com/"
+		"bandcampURL": "https://sundayattheward.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Sunliner",
@@ -1037,7 +1295,9 @@
 		"websiteURL": "https://www.sunlinerband.co.uk/",
 		"facebookURL": "https://www.facebook.com/sunlinerband",
 		"instagramURL": "https://www.instagram.com/sunlinerband",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Tess & The Details",
@@ -1045,7 +1305,9 @@
 		"websiteURL": "https://tessandthedetails.com",
 		"facebookURL": "https://facebook.com/tessandthedetails",
 		"instagramURL": "https://instagram.com/tessandthedetails",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Abruptors",
@@ -1053,7 +1315,9 @@
 		"websiteURL": "https://theabruptors.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/theabruptors",
 		"instagramURL": "https://www.instagram.com/theabruptors/",
-		"bandcampURL": "https://theabruptors.bandcamp.com/"
+		"bandcampURL": "https://theabruptors.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Big Easy",
@@ -1061,7 +1325,9 @@
 		"websiteURL": "https://thebigeasy.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/thebigeasybk",
 		"instagramURL": "https://www.instagram.com/thebigeasyband",
-		"bandcampURL": "https://thebigeasy.bandcamp.com"
+		"bandcampURL": "https://thebigeasy.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Corps",
@@ -1069,7 +1335,9 @@
 		"websiteURL": "https://thecorps.bandcamp.com/music",
 		"facebookURL": "https://www.facebook.com/thecorps2814/",
 		"instagramURL": "https://www.instagram.com/thecorps2814/",
-		"bandcampURL": "https://thecorps.bandcamp.com/music"
+		"bandcampURL": "https://thecorps.bandcamp.com/music",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Fly Downs",
@@ -1077,7 +1345,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Ghostwrite",
@@ -1085,7 +1355,9 @@
 		"websiteURL": "https://theghostwrite.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/theghostwritemusic",
 		"instagramURL": null,
-		"bandcampURL": "https://theghostwrite.bandcamp.com/"
+		"bandcampURL": "https://theghostwrite.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Hybrids",
@@ -1093,7 +1365,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Jukebox Romantics",
@@ -1101,7 +1375,9 @@
 		"websiteURL": "https://thejukeboxromantics.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/TheJukeboxRomantics/",
 		"instagramURL": "https://www.instagram.com/jukeboxromantics/",
-		"bandcampURL": "https://thejukeboxromantics.bandcamp.com/"
+		"bandcampURL": "https://thejukeboxromantics.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Lookout",
@@ -1109,7 +1385,9 @@
 		"websiteURL": "https://thelookout.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/thelookoutmtl",
 		"instagramURL": "https://www.instagram.com/the_lookout_mtl/",
-		"bandcampURL": "https://thelookout.bandcamp.com/"
+		"bandcampURL": "https://thelookout.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Punk Cellist",
@@ -1117,7 +1395,9 @@
 		"websiteURL": "https://linktree.com/thepunkcellist",
 		"facebookURL": "https://www.facebook.com/thepunkcellist",
 		"instagramURL": "https://www.instagram.com/thepunkcellist",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Speakeasy",
@@ -1125,7 +1405,9 @@
 		"websiteURL": "https://thespeakeasyrock.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/TheSpeakeasyRock",
 		"instagramURL": "https://www.instagram.com/thespeakeasyrock/",
-		"bandcampURL": "https://thespeakeasyrock.bandcamp.com/"
+		"bandcampURL": "https://thespeakeasyrock.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "The Write Ups",
@@ -1133,7 +1415,9 @@
 		"websiteURL": "http://www.thewriteups.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/thewriteupsband",
 		"instagramURL": "https://www.instagram.com/thewriteupsband",
-		"bandcampURL": "http://www.thewriteups.bandcamp.com/"
+		"bandcampURL": "http://www.thewriteups.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Thick Glasses",
@@ -1141,7 +1425,9 @@
 		"websiteURL": "https://thickglassespunk.bandcamp.com",
 		"facebookURL": "https://www.facebook.com/thickglassespunk",
 		"instagramURL": "https://www.instagram.com/thickglassespunk",
-		"bandcampURL": "https://thickglassespunk.bandcamp.com"
+		"bandcampURL": "https://thickglassespunk.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Tim Holehouse",
@@ -1149,7 +1435,9 @@
 		"websiteURL": "https://Timholehouse.com",
 		"facebookURL": "https://www.facebook.com/TimHolehouseMusic/",
 		"instagramURL": "https://www.instagram.com/timholehouse",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Tiny Stills",
@@ -1157,7 +1445,9 @@
 		"websiteURL": "https://www.tinystills.com",
 		"facebookURL": "https://www.facebook.com/tinystills",
 		"instagramURL": "https://www.instagram.com/tinystills",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Tired Radio",
@@ -1165,7 +1455,9 @@
 		"websiteURL": "https://www.tiredradio.com/",
 		"facebookURL": "https://www.facebook.com/tiredradiomusic",
 		"instagramURL": "https://www.instagram.com/tired_radio/",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Total Waste",
@@ -1173,7 +1465,9 @@
 		"websiteURL": "https://totalwastemtl.bandcamp.com",
 		"facebookURL": "https://m.facebook.com/profile.php/?id=100076284457971",
 		"instagramURL": "https://www.instagram.com/totalwaste.mtl",
-		"bandcampURL": "https://totalwastemtl.bandcamp.com"
+		"bandcampURL": "https://totalwastemtl.bandcamp.com",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Varlope",
@@ -1181,7 +1475,9 @@
 		"websiteURL": "https://varlope.bandcamp.com/album/le-p-ril-woke",
 		"facebookURL": "https://www.facebook.com/varlopage",
 		"instagramURL": "https://www.instagram.com/varlope/",
-		"bandcampURL": "https://varlope.bandcamp.com/album/le-p-ril-woke"
+		"bandcampURL": "https://varlope.bandcamp.com/album/le-p-ril-woke",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Virginity",
@@ -1189,7 +1485,9 @@
 		"websiteURL": "https://www.virginityisrad.com",
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/virginityisrad",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Volcano Bloom",
@@ -1197,7 +1495,9 @@
 		"websiteURL": "https://volcanobloom.bandcamp.com/",
 		"facebookURL": null,
 		"instagramURL": null,
-		"bandcampURL": "https://volcanobloom.bandcamp.com/"
+		"bandcampURL": "https://volcanobloom.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "WAG",
@@ -1205,7 +1505,9 @@
 		"websiteURL": "https://wagmp3.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/wagmp3",
 		"instagramURL": "https://www.instagram.com/wag.mp3?igsh=cjRvcm5vODgxb3Fl&utm_source=qr",
-		"bandcampURL": "https://wagmp3.bandcamp.com/"
+		"bandcampURL": "https://wagmp3.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Whoredrobe",
@@ -1213,7 +1515,9 @@
 		"websiteURL": null,
 		"facebookURL": null,
 		"instagramURL": "https://www.instagram.com/whoredrobeband",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Wise Guise",
@@ -1221,7 +1525,9 @@
 		"websiteURL": "https://wiseguiseband.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/wiseguiseband",
 		"instagramURL": "https://www.instagram.com/wiseguiseband/",
-		"bandcampURL": "https://wiseguiseband.bandcamp.com/"
+		"bandcampURL": "https://wiseguiseband.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "Wolves&Wolves&Wolves&Wolves",
@@ -1229,7 +1535,9 @@
 		"websiteURL": "https://www.wolvesx4.com",
 		"facebookURL": "https://www.facebook.com/wolvesx4",
 		"instagramURL": "https://www.instagram.com/wolvesx4",
-		"bandcampURL": null
+		"bandcampURL": null,
+		"appleMusicURL": null,
+		"spotifyURL": null
 	},
 	{
 		"name": "You Vandal",
@@ -1237,6 +1545,8 @@
 		"websiteURL": "https://youvandal.bandcamp.com/",
 		"facebookURL": "https://www.facebook.com/youvandalfl/",
 		"instagramURL": "https://www.instagram.com/youvandalfl/",
-		"bandcampURL": "https://youvandal.bandcamp.com/"
+		"bandcampURL": "https://youvandal.bandcamp.com/",
+		"appleMusicURL": null,
+		"spotifyURL": null
 	}
 ]

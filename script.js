@@ -34,13 +34,16 @@ function showMyBand(myBand) {
 }
 
 function appendData(data) {
-	var randomIndex = getRandomArbitrary(0, data.length - 1);
-	showMyBand(data[randomIndex]);
+	const ulBands = document.getElementById('bandList');
+	if (ulBands) {
+		ulBands.innerHTML = data.map(band => `<li>${band.name}</li>`).join('');
+	}
+	
+    var randomIndex = getRandomArbitrary(0, data.length - 1);
+    showMyBand(data[randomIndex]);
 
-	buttonNext.addEventListener("click", () => {
-		var randomIndex = getRandomArbitrary(0, data.length - 1);
-		showMyBand(data[randomIndex]);
-	});
-
-	console.log(myBand.name);
+    buttonNext.addEventListener("click", () => {
+        var randomIndex = getRandomArbitrary(0, data.length - 1);
+        showMyBand(data[randomIndex]);
+    });
 }
